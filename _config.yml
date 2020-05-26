@@ -6,11 +6,11 @@ description: Horizon is the Physics and Astronomy Club of Indian Institute of Te
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-
+staticman_url: https://api.staticman.net/v3/entry/github/HorizonIITM/HorizonIITM.github.io/master/comments
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
-author-avatar: 09.jpg
+author-name:   Horizon
+author-avatar: favicon.ico
 
 
 #-------------------------------
@@ -43,7 +43,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 
 #-------------------------------
 # Build settings
-markdown: kramdown
+markdown: Kramdown
 permalink: ':title/'
 plugins:
   - jekyll-paginate

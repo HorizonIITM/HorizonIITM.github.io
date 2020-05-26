@@ -229,3 +229,50 @@
     padding: 0 40px;
   }
 }
+
+
+.buttonf {
+  display:block;
+  margin:auto;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid rgba(201, 211, 231, 50);
+  color: #323743;
+  transition: $global-transition;
+  &:hover {
+    border: 1px solid $primary-color;
+    background: $primary-color;
+    color: $white;}
+}
+.form-inner {
+  padding: 40px;
+  }
+.form-inner input,
+.form-inner textarea {
+  display: inline-block;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 20px;
+  background: #323743;
+  }
+.form-inner textarea {
+  resize: none;
+  }
+  ::-webkit-input-placeholder { /* Chrome */
+    color: $gray-blue;
+  }
+  :-ms-input-placeholder { /* IE 10+ */
+    color: $gray-blue;
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    color: $gray-blue;
+    opacity: 1;
+  }
+  :-moz-placeholder { /* Firefox 4 - 18 */
+    color: $gray-blue;
+    opacity: 1;
+  }
