@@ -120,7 +120,6 @@ Comments:
 </section>
 </form>
 -->
-{% include comments.html element=".post-content" github_account="HorizonIITM/HorizonIITM.github.io" require_cookie_consent="true" %}
 				<div class="post-navigation">
 					{% if page.previous.url %}
 					<a href="{{ site.baseurl }}{{page.previous.url}}" class="prev">
@@ -136,7 +135,9 @@ Comments:
 				</div>
 
 			</div>
-	
+		{% if site.disqus-identifier %}
+			{% include disqus-comments.html %}
+		{% endif %}
 	</article> <!-- /.post -->
 
 	<div class="col col-12 col-t-4">
