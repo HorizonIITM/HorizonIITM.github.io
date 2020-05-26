@@ -6,7 +6,7 @@ description: Horizon is the Physics and Astronomy Club of Indian Institute of Te
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-staticman_url: https://api.staticman.net/v3/entry/github/HorizonIITM/HorizonIITM.github.io/master/comments
+#staticman_url: https://api.staticman.net/v3/entry/github/HorizonIITM/HorizonIITM.github.io/master/comments
 #-------------------------------
 # About Section
 author-name:   Horizon
@@ -23,7 +23,7 @@ youtube:  https://www.youtube.com/horizoniitm/
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: horizoniit # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: horizoniitm # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
