@@ -3,7 +3,7 @@
 
 title: Horizon | IIT Madras
 description: Horizon is the Physics and Astronomy Club of Indian Institute of Technology Madras. # this means to ignore newlines until "baseurl:"
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -30,7 +30,7 @@ youtube:  https://www.youtube.com/horizoniitm/
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
 
-
+theme: minima
 #-------------------------------
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
