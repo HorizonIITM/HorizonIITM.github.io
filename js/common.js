@@ -125,7 +125,7 @@ $(function() {
   // Scroll Top Button
   ======================= */
   $(".top").click(function () {
-    $("html, body")
+    $(window)
       .stop()
       .animate({ scrollTop: 0 }, "slow", "swing");
   });
