@@ -124,10 +124,10 @@ $(function() {
   /* =======================
   // Scroll Top Button
   ======================= */
-  $(".top").click(function () {
-    $(window)
-      .stop()
-      .animate({ scrollTop: 0 }, "slow", "swing");
-  });
+    $(".back2Top").click(function(event) {
+        $("html, body").stop().animate({ scrollTop: 0 }, "slow","swing");
+        return false;
+    });
+
 
 });
