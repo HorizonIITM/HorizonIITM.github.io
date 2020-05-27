@@ -18,6 +18,7 @@ layout: default
 						{% else %} {% endif %}
 						</div>
 						<h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
+						<p class="rdingtim">{% include reading-time.html %}</p>
 						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
 						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Read More</a>
 					</div>
@@ -41,7 +42,7 @@ layout: default
 						<div class="article-head">
 							<a href="{{ post.url | prepend: site.baseurl }}" class="article-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.image}})">
 								<div class="image-overlay">
-									<span class="image-overlay-text">{{post.title | slice: 0}}</span>
+									<span class="image-overlay-text">{% include reading-time.html %}</span>
 								</div>
 							</a>
 						</div>

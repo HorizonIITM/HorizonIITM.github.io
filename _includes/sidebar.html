@@ -15,6 +15,7 @@
         <h6 class="recent-title"><a href="{{ root_url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h6>
         <div class="recent-date">
           <time datetime="{{ post.date | date_to_xmlschema }}">{{post.date | date: "%B %-d, %Y"}}</time>
+          <span class='rcnt-rdtm'>|{% include reading-time.html %}</span>
         </div>
       </div>
     </div>
