@@ -3,4 +3,6 @@
 {% endcapture %}
 {% unless words contains '-' %}
 {{ words | plus: 150 | divided_by: 150 | append: ' mins.' }}
+{% else %}
+{{ '<1 min.' }}
 {% endunless %}
