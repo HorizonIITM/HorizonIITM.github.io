@@ -40,6 +40,21 @@ body {
   background-color: $primary-color;
 }
 
+body::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+body::-webkit-scrollbar-track {
+  background: $background;        /* color of the tracking area */
+}
+body::-webkit-scrollbar-thumb {
+  background-color: $gray-blue;    /* color of the scroll thumb */
+  border-radius: 0px;       /* roundness of the scroll thumb */
+  // border: 3px solid orange;  /* creates padding around scroll thumb */
+}
+body {
+  scrollbar-width: thin;          /* "auto" or "thin"  */
+  scrollbar-color: $background $gray-blue;   /* scroll thumb & track */ 
+}
 
 // Headings
 $heading-font-weight: 700;
