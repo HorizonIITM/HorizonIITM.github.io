@@ -1,0 +1,21 @@
+.photo-gallery ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.photo-gallery .gbox{
+    position: inherit;
+    display: inline-block;
+    padding: 15px 0px 15px; /* Make the width of box same as image */
+}
+.photo-gallery .gtext {
+    text-align: center;
+    font-size: large;
+}
+.photo-gallery .title {
+    font-weight: bolder;
+}
+// .photo-gallery{
+//     position: inherit;
+//     width: inherit;
+// }
