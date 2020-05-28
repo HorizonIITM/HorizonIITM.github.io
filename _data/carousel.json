@@ -1,0 +1,11 @@
+[
+    {
+      "title": "An image",
+      "caption": "A caption",
+      "url": "gallery-images\01.jpg"
+    },
+    {
+      "title": "An image",
+      "url": "gallery-images\04.jpg"
+    },
+  ]

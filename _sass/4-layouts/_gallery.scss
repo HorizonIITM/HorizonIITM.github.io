@@ -19,3 +19,15 @@
 //     position: inherit;
 //     width: inherit;
 // }
+
+.photo-carousel {
+    // position: relative;
+    display: inline-block;
+
+}
+
+.photo-carousel .control {
+    position: inherit;
+    display: inherit;
+    top: 50%;
+}
