@@ -5,6 +5,7 @@
   {% assign slice_end = totaln | minus: 1 %}
   {% assign nofirst = rsorted | slice:1, slice_end %}
   <div id='GalleryPage' class="carousel slide carousel-fade" data-ride="carousel">
+    <div class="carousel-inner">
       <div class="carousel-item active">
           <img class="d-block w-100" src="{{rsorted[0].image_path}}" alt="{{rsorted[0].title}}">
           <div class="carousel-caption d-none d-md-block">
@@ -21,6 +22,7 @@
           </div>
       </div>
     {% endfor %}
+    </div>
     <div class="control">
       <a class="carousel-control-prev" href="#GalleryPage" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
