@@ -14,17 +14,14 @@
   justify-content: space-between;
   align-items: center;
   .logo-title {
+    max-width: 10%;
     .logo-text {
-      font-size: 16px;
-      font-weight: 700;
-      line-height: 16px;
-      text-transform: uppercase;
-      letter-spacing: 5px;
-      color: $text;
+      opacity: 70%;
       &:hover {
+        opacity: 100%;
         color: #fff;
       }
-    }
+      }
   }
 }
 
