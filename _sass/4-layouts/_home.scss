@@ -25,6 +25,25 @@
   }
 }
 
+@media only screen and (max-width: 768px) {
+  .header-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    .logo-title {
+      max-width: 30%;
+      .logo-text {
+        opacity: 70%;
+        &:hover {
+          opacity: 100%;
+          color: #fff;
+        }
+        }
+    }
+  }
+}
+
 .nav-menu,
 .search {
   position: fixed;
@@ -415,6 +434,7 @@
       padding: 60px 40px 0;
     }
   }
+  
 }
 
 @media only screen and (min-width: 992px) {
