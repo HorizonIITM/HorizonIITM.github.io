@@ -1,52 +1,162 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: 1-0.jpg
 permalink: /about/
 ---
-# Horizon: the Physics and Astronomy Club
-Team Horizon is a bunch of enthusiastic undergrads, with keen interests in physics and astronomy, who envision to cater to the intellectual needs of the physics and astro community by engaging in various projects, lectures and workshops, interactive discussion sessions, quizzes, competitive events, and online resources. 
- 
-> Horizon: Where the sky meets the eye
+<h1 style='text-align:center'>Horizon: The Physics and Astronomy Club</h1>
 
-Our club is part of the Centre for Innovation (CFI - IIT Madras), established in 2008 to serve the needs and enhance the growth of the technical clubs in the IITM.  CFI is a 24*7 hour students' run lab, a well-established platform for inter-club interactions, students' project funds, support tech, and sciences oriented competition teams and an environment to enhance the spirit of science and technology.
+Horizon, the Physics and Astronomy society of IIT Madras is a registered voluntary student organization, which promotes the learning of physics and astronomy on campus and in the community.  
 
-IITM's Astronomy Club was founded several years back, by people who loved star-parties and looked for an astro-minded peer group.  After being integrated into CFI in 2008, the astronomy club metamorphosed into - Horizon: the Physics and Astronomy Club. The club’s structure comprises of a faculty advisor, two heads, strategists, coordinators, project members and
-volunteers.
+For most uninitiated freshmen joining IIT Madras, Horizon is one among the ten clubs which are a part of Cф or the Centre for Innovation, the student lab of IIT Madras. However, digging deeper reveals much more than what meets the eye.
 
-During the recent years our team has been conducting a plethora of events. We have continued conducting sky gazing activities-which are the backbone of the club, and added a whole bunch of new ideas with a vision to quench the thirst of those who are fascinated by the quantum realms and celestial roofs that surround us, and are zealous to explore the universe from quarks to quasars.
+The club boasts of organizing numerous talks conducted by professors and student researchers, special viewings of unusual astronomical activities and observation sessions, including off-campus ones – apart from those on-campus – to provide a recluse from the threat of the air and light pollution in the metropolis that is Chennai. All these activities of the club are open to the entire student community which enriches the experience. The club also undertakes student research projects every year, focusing on varied topics in physics and astronomy.
 
-## Observation Sessions and Astrophotography
+Horizon has diverse academic interests across various disciplines of scientific research, with members having varied levels of experience devoted to pursuing these interests. Many members join the club with little to no prior experience, the only prerequisite being a thirst to learn more about the universe. The club provides them with an opportunity to enjoy the company of other equally enthusiastic students while learning more about the secrets of the cosmos, with one sole purpose in mind – To explore space: the final frontier; to boldly go where no man has gone before!
 
-The club owns multiple telescopes, a Dobsonian of 12-inch, an 8-inch reflecting with a tracker, and other smaller ones. The observation sessions let all the campus students and residents learn telescope-handling, learn about the night-sky from club members, and observe the sky dotted with stars.  
-The club has amateur astrophotographers, who let you see the beauty of celestial skies through their constant efforts. Here are some pictures captured by us.
+[Click here to know more about the club and its activities]({% post_url 2020-07-04-horizon %})
 
+## Horizon 2020 Team
+<table class='centered responsive-table'>
+    <thead>
+    <tr>
+        <th colspan='2'>Heads</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Rahul Priyadarshan</td>
+        <td>Vaibhavi Gawas</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Ex-Heads (2019-20)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Nimisha Sharma</td>
+        <td>Pranav Satheesh</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Strategists</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Devcharan</td>
+        <td>Madhav Lalwala</td>
+    </tr><tr>
+        <td>Mohit Kushwah</td>
+        <td>Ramdarsan</td>
+    </tr><tr>
+        <td>Sai Subramanian</td>
+        <td>Varun Kumar</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Coordinators</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Aniket Kukreti</td>
+        <td>Ashish Shroti</td>
+    </tr><tr>
+        <td>Hrishabh Srivastava</td>
+        <td>Manaswini Munuguri</td>
+    </tr><tr>
+        <td>Rajeshkumar</td>
+        <td>Shruti Gorugantula</td>
+    </tr><tr>
+        <td>Vivan Bhatt</td>
+    </tr>
+    </tbody>
+</table>
 
-## Boltzmann sessions
+## Horizon 2019 Team
+<table class='centered responsive-table'>
+    <thead>
+    <tr>
+        <th colspan='2'>Heads</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Nimisha Sharma</td>
+        <td>Pranav Satheesh</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Ex-Heads (2018-19)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Aakila Rajan</td>
+        <td>Yashodhan Manerikar</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Strategists</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Sayak Guha Roy</td>
+        <td>Shreenath</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Coordinators</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Devcharan</td>
+        <td>Madhav Lalwala</td>
+    </tr><tr>
+        <td>Mohit Kushwah</td>
+        <td>Rahul Priyadarshan</td>
+    </tr><tr>
+        <td>Ramdarsan</td>
+        <td>Sai Subramanian</td>
+    </tr><tr>
+        <td>Vaibhavi Gawas</td>
+        <td>Varun Kumar</td>
+    </tbody>
+</table>
 
-These sessions started off as a group of physics enthusiastic people informally meeting to discuss various topics, from Blackholes to the Big Bang. Students talk about their research projects or take up a topic and conduct an interactive session. These sessions are held weekly.  We have also put up series like 'Introduction to Special Theory of Relativity' and 'Stellar Astrophysics' as part of these sessions. Starting this year, we have extended Boltzmann sessions to topics incorporating applied physics and engineering domains. 
+## Alumni
 
-## Workshops and Lectures
-
-We have conducted several workshops, mainly during Shaastra (The Tech-Fest of IIT Madras). These workshops aim at astronomical data analysis, astronomy software, and teaching astrophotography. We conducted a workshop at Kochi through Sampark-Shaastra in Nov 2019.  
-We also invite professors from various backgrounds of sciences for lectures and talks. Prof. G.Srinivasan, Prof. Suresh Govindarajan, Prof. V Balakrishnan, Prof. L. Sriramkumar and Prof. Avinash Deshpande have all been part of the club lecture series.
-
-## Astro-Week
-
-This week happens at the beginning of the odd semester and sees participation from several freshmen. A series of lectures and observation sessions are conducted during this time. It's an excellent opportunity to be involved in club-activities and get to know more about the club.
-
-## Tech-Soc events
-
-Tech-Soc is an inter-hostel competitive event of CFI. Our club has conducted events like Physics Bowl, Telescope handling, astronomy quizzes and related problem statements. We have also collaborated with CFI's Analytics Club for astronomy data analysis events. We have also 
-
-## Educational Trips
-
-Every year we organize a trip to Vainu Bappu Observatory(VBO), located at Kavalur (roughly six hours from Chennai), to witness the marvelous skies, along with the astro-enthusiasts from the institute. This trip is an opportunity for astrophotographers to obtain some excellent clicks. VBO also houses Asia's second-largest, 93-inch optical telescope.  
-Some of our club members have also visited Gauribidanur(GBD) Radio Observatory as a part of the Sky Watch Array Network(SWAN) initiative. GBD has an array of radio tile antennas- and a lab facility to understand the workings of the radio antenna and acquire data from the telescopes.  
-
-Beyond this big lot of activities, the club also focuses on research-based Physics and Astro projects. We have completed projects in Astrodynamics, Photometry, Spectroscopy, and have also worked on building a handheld Spectrometer, Radio-horn antenna, and Tesla coil.
-
-The current list of projects can be found here (insert the git link or blog-article with project details).
-
-With all the ongoing projects and events, we aim to expand the horizons (pun intended) of our scientific and intellectual knowledge.
-(Add a team members section with contact details of heads)
+<table class='centered responsive-table'>
+    <tbody>
+        <tr>
+            <td>Aakila Rajan</td>
+            <td>Yashodhan Manerikar</td>
+            <td>Yash Bhusare</td>
+        </tr>
+        <tr>
+            <td>Amit Srivastav</td>
+            <td>Rachana Yajur</td>
+            <td>Vishal Upendran</td>
+        </tr>
+        <tr>
+            <td>Shoy Ouseph</td>
+            <td>Somayajulu Dhulipala</td>
+            <td>Sri Harsha</td>
+        </tr>
+        <tr>
+            <td>Amitesh Kumar</td>
+            <td>Sunil Simha</td>
+            <td>Ratnakar</td>
+        </tr>
+    </tbody>
+</table>

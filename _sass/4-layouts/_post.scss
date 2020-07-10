@@ -278,3 +278,7 @@
     color: $gray-blue;
     opacity: 1;
   }
+
+  img + em {
+    text-align: center;
+  }
