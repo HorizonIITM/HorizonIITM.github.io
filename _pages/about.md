@@ -135,7 +135,6 @@ Horizon has diverse academic interests across various disciplines of scientific 
 </table>
 
 ## Alumni
-
 <table class='centered responsive-table'>
     <tbody>
         <tr>
