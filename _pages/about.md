@@ -131,7 +131,7 @@ Horizon has diverse academic interests across various disciplines of scientific 
     </tr><tr>
         <td>Vaibhavi Gawas</td>
         <td>Varun Kumar</td>
-    </tbody>
+    </tr></tbody>
 </table>
 
 ## Alumni
