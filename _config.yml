@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Horizon
-author-avatar: favicon.ico
+author-avatar: favicon.png
 
 
 #-------------------------------

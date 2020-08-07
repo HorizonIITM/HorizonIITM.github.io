@@ -46,10 +46,10 @@ We have conducted several workshops, mainly during Shaastra (The Tech-Fest of II
 We also invite professors from various backgrounds of sciences for lectures and talks. **Prof. G.Srinivasan**, **Prof. Suresh Govindarajan**, **Prof. V Balakrishnan**, **Prof. L. Sriramkumar** and **Prof. Avinash Deshpande** have all been part of the club lecture series.
 
 ![]({{site.baseurl}}/img/1-7.jpg)
-*professors invited to give talk*
+*Professors invited to give talk*
 
 ![]({{site.baseurl}}/img/1-8.jpg)
-*workshops*
+*Workshops*
 
 ## Astro-week
 

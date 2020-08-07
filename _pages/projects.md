@@ -2,13 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-image: 11.jpg
+image: project.png
 ---
 These are the projects being undertaken by Club for the year 2020-2021.
 
 ## Estimating Age of Star Clusters
 
-Age of a star cluster is directly linked to the type of stars and its stellar evolution history. This project will be a continutation of the work done by spectroscopy and photometry project members last year. The aim is to calculate the age for various open and globular clusters using just the FITS data from Sloan Digital Sky Survey as the input. In the firrst phase, we can develop a first order estimate using known stellar evolution models. once this is done, the members can work on their own stellar evolution models and isochrone relation to fit the data obtained. This will be extended to our own data taken from our telescope. The project can be extended further to multiple clusters and effective fitting algorithms and also ML models.
+Age of a star cluster is directly linked to the type of stars and its stellar evolution history. This project will be a continutation of the work done by spectroscopy and photometry project members last year. The aim is to calculate the age for various open and globular clusters using just the FITS data from Sloan Digital Sky Survey as the input. In the first phase, we can develop a first order estimate using known stellar evolution models. once this is done, the members can work on their own stellar evolution models and isochrone relation to fit the data obtained. This will be extended to our own data taken from our telescope. The project can be extended further to multiple clusters and effective fitting algorithms and also ML models.
 
 ## A sensitive Cloud Chamber: Particle Detector @ Home
 
@@ -24,7 +24,7 @@ Few years back we did Hubble constant estimation using Supernovae and CMB data m
 
 ## Space Mission Design Tool
 
-With increasing interplanetary missions lately, there is a requirement for space mission design, optimization and navigation. The objective of this project is to develop software which can calculate and simulate trajectories of interplanetary spacecraft missions. Design of maneuvers and transfer orbit optimization will also be embedded in the software. Perturbations of various sorts (perturbations occurring due to solar radiation,Oblateness of planets, asteroid and comet influence) would be considered while designing the software.The preliminary stage of the project will be coded in MATLAB/Python.Prerequisites : Basic Matlab and Python. Project Output till now : https://drive.google.com/file/d/16DJaQLzm0tbPwqg8aCxhU1tFFyErccmD/view?usp=sharing
+With increasing interplanetary missions lately, there is a requirement for space mission design, optimization and navigation. The objective of this project is to develop software which can calculate and simulate trajectories of interplanetary spacecraft missions. Design of maneuvers and transfer orbit optimization will also be embedded in the software. Perturbations of various sorts (perturbations occurring due to solar radiation,Oblateness of planets, asteroid and comet influence) would be considered while designing the software.The preliminary stage of the project will be coded in MATLAB/Python.
 
 ## Team Aether
 
