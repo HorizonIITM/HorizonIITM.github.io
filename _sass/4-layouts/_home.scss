@@ -205,7 +205,6 @@
   margin-bottom: 30px;
   background: $black;
   .article-image-first {
-    
     position: relative;
     display: flex;
     align-items: center;
@@ -244,6 +243,11 @@
         color: $text;
         transition: $global-transition;
       }
+    }
+
+    .article-content-first span {
+      padding: 5px;
+      background: rgba(0, 0, 0, .5);
     }
     .article-excerpt {
       max-width: 450px;
