@@ -1,0 +1,82 @@
+---
+layout: post
+title: Horizon - The Physics and Astronomy Club
+date: 2020-08-14 08:00:00 +0000
+image: 1-0.webp
+tags: [Horizon]
+---
+
+![]({{site.baseurl}}/img/1-1.webp)
+
+Team Horizon is a bunch of enthusiastic undergrads, with keen interests in physics and astronomy, who envision to cater to the intellectual needs of the physics and astro community by engaging in various projects, lectures and workshops, interactive discussion sessions, quizzes, competitive events, and online resources.
+
+Our club is part of the Centre for Innovation (CFI - IIT Madras), established in 2008 to serve the needs and enhance the growth of the technical clubs in the IITM. CFI is a 24\*7 hour students' run lab, a well-established platform for inter-club interactions, students' project funds, support tech, and sciences oriented competition teams and an environment to enhance the spirit of science and technology.
+
+IITM's Astronomy Club was founded several years back, by people who loved star-parties and looked for an astro-minded peer group. After being integrated into CFI in 2008, the astronomy club metamorphosed into - Horizon: the Physics and Astronomy Club. The club’s structure comprises of a faculty advisor, two heads, strategists, coordinators, project members and
+volunteers.
+
+During the recent years our team has been conducting a plethora of events. We have continued conducting sky gazing activities-which are the backbone of the club, and added a whole bunch of new ideas with a vision to quench the thirst of those who are fascinated by the quantum realms and celestial roofs that surround us, and are zealous to explore the universe from quarks to quasars.
+
+_The activities undertaken by the club are listed below._
+
+## Observation Sessions and Astrophotography
+
+The club owns multiple telescopes, a Dobsonian of 12-inch, an 8-inch reflecting with a tracker, and other smaller ones. The observation sessions let all the campus students and residents learn telescope-handling, learn about the night-sky from club members, and observe the sky dotted with stars.
+
+The club has amateur astrophotographers, who let you see the beauty of celestial skies through their constant efforts. Here are some pictures captured by us.
+
+![]({{site.baseurl}}/img/1-2.webp)
+
+![]({{site.baseurl}}/img/1-3.webp)
+
+![]({{site.baseurl}}/img/1-4.webp)
+
+![]({{site.baseurl}}/img/1-5.webp)
+
+Go ahead and check our [gallery]({{site.baseurl}}/gallery "Gallery") for more amazing photographs.
+
+## Boltzmann Sessions
+
+These sessions started off as a group of physics enthusiastic people informally meeting to discuss various topics, from Blackholes to the Big Bang. Students talk about their research projects or take up a topic and conduct an interactive session. These sessions are held weekly. We have also put up series like _'Introduction to Special Theory of Relativity'_ and _'Stellar Astrophysics'_ as part of these sessions. Starting this year, we have extended Boltzmann sessions to topics incorporating applied physics and engineering domains. [Click here to access the resources of the Boltzmann Session lectures.]({{site.baseurl}}/resources Resources)
+
+![]({{site.baseurl}}/img/1-6.webp)
+
+## Workshops and Lectures
+
+We have conducted several workshops, mainly during Shaastra (The Tech-Fest of IIT Madras). These workshops aim at _astronomical data analysis_, _astronomy software_, and teaching _astrophotography_. We conducted a workshop at Kochi through Sampark-Shaastra in Nov 2019.
+We also invite professors from various backgrounds of sciences for lectures and talks. **Prof. G.Srinivasan**, **Prof. Suresh Govindarajan**, **Prof. V Balakrishnan**, **Prof. L. Sriramkumar** and **Prof. Avinash Deshpande** have all been part of the club lecture series.
+
+![]({{site.baseurl}}/img/1-7.webp)
+_Professors invited to give talk_
+
+![]({{site.baseurl}}/img/1-8.webp)
+_Workshops_
+
+## Astro-week
+
+This week happens at the beginning of the odd semester and sees participation from several freshmen. A series of lectures and observation sessions are conducted during this time. It's an excellent opportunity to be involved in club-activities and get to know more about the club.
+
+![]({{site.baseurl}}/img/1-9.webp)
+
+## Tech-Soc events
+
+Tech-Soc is an inter-hostel competitive event of CFI. Our club has conducted events like Physics Bowl, Telescope handling, astronomy quizzes and related problem statements. We have also collaborated with CFI's Analytics Club for astronomy data analysis events.
+
+![]({{site.baseurl}}/img/1-10.webp)
+
+## Trips to Observatories and Research Labs
+
+Every year we organize a trip to _Vainu Bappu Observatory_ (VBO), located at Kavalur (roughly six hours from Chennai), to witness the marvelous skies, along with the astro-enthusiasts from the institute. This trip is an opportunity for astrophotographers to obtain some excellent clicks. VBO also houses Asia's second-largest, 93-inch optical telescope.
+Some of our club members have also visited _Gauribidanur(GBD) Radio Observatory_ as a part of the _Sky Watch Array Network_ (SWAN) initiative. GBD has an array of radio tile antennas- and a lab facility to understand the workings of the radio antenna and acquire data from the telescopes.
+
+![]({{site.baseurl}}/img/1-11.webp)
+
+<hr>
+
+Beyond this big lot of activities, the club also focuses on research-based Physics and Astro projects. We have completed projects in Astrodynamics, Photometry, Spectroscopy, and have also worked on building a handheld Spectrometer, Radio-horn antenna, and Tesla coil.
+
+The current list of projects can be found here(insert the git link or blog-article with project details).
+
+With all the ongoing projects and events, we aim to expand the _horizons_ (pun intended) of our scientific and intellectual knowledge.
+
+[Click here to see the current team and contact details of the heads]({{site.baseurl}}/about#horizon-2020-team)

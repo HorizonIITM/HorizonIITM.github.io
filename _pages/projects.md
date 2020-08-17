@@ -2,8 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-image: project.png
+image: projects.webp
 ---
+
 These are the projects being undertaken by Club for the year 2020-2021.
 
 ## Estimating Age of Star Clusters
