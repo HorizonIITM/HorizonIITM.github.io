@@ -27,7 +27,7 @@ It so happens that they’re not just omnipresent, but too powerful (and beautif
 If you’ve had a background in science, you would have almost definitely come across the Euler’s identity:
 
 !["Euler's identity"]({{site.baseurl}}/img/3-1.webp)
-Courtesy: Flickr
+_Euler's Identity (Courtesy: Flickr)_
 
 Arguably described as _the most beautiful equation in mathematics_, it’s interesting to see how three fundamental constants play around with three fundamental arithmetic operations to produce something spectacular.
 
@@ -35,8 +35,8 @@ Look at it this way: 2.7182818… (infinite digits!) raised to a complex number 
 
 ## The Million Dollar Baby
 
-!["Euler's identity"]({{site.baseurl}}/img/3-2.webp)
-Courtesy: Wikipedia
+!["Riemann Zeta function"]({{site.baseurl}}/img/3-2.webp)
+_Riemann Zeta Function (Courtesy: Wikipedia)_
 
 This is an idea that is popularly expressed as the sum of all natural numbers equaling -1/12.
 
@@ -71,7 +71,7 @@ Although something of this sort is not feasible to happen and the universe has a
 I’ll return to this viewpoint later. But do you feel exhausted already? I feel like eating Pringles; care to have a bite? But, but, that has a mathematical equation too!
 
 !["Hyperbolic Surface"]({{site.baseurl}}/img/3-3.webp)
-Courtesy: Wikipedia
+_Courtesy: Wikipedia_
 
 ## Math inspired from biology
 
@@ -82,14 +82,14 @@ Man was inspired by the way birds fly, and so he chose to fly.
 However, he was clever enough to not copy-paste nature for the sake of greater returns; birds and insects use wings to lift themselves off the ground as well as propel themselves forward, but aircrafts use wings for lift and engines for propulsion. This is the basis of modern aerodynamics (oops, I have an end semester exam to complete!)
 
 !["Aerodynamics of an aerofoil"]({{site.baseurl}}/img/3-4.webp)
-Courtesy: Wikipedia
+_Courtesy: Wikipedia_
 
 Man was inspired by the way the human beings think, and so he decided to train machines to think too.
 
 This is the goal of artificial intelligence, i.e. to be able to invent machines that mimic human beings as much as possible. A particular series of algorithms called neural networks is completely inspired by the way information is transmitted from one neuron to another in your body, mimicking the way your brain operates.
 
 !["Nerual Netoworks"]({{site.baseurl}}/img/3-5.webp)
-Courtesy: Wikipedia
+_Courtesy: Wikipedia_
 
 Neural networks are powerful and used in too many real life applications such as face recognition, email spam filtering, medical diagnosis, astronomical data analysis and many more.
 
@@ -114,13 +114,13 @@ People talk about two variants of the anthropic principle – _strong and weak_.
 So, as a plot twist, if you hate mathematical equations, it is not justified at all. The universe is a stage, living organisms are actors and you are one such supporting actor who feels he stands out of the crowd by saying he hates acting. As I said in the beginning, many of you would have been intimidated by seeing the title. But if you made it till here, and if you’re still not intimidated by equations, I’m ready to drop my _nuke_.
 
 !["Standard Model Lagrangian"]({{site.baseurl}}/img/3-6.webp)
-Standard Model Lagrangian (Courtesy: Wikipedia)
+_Standard Model Lagrangian (Courtesy: Wikipedia)_
 
 ### Refernces:
 
 1. [Euler’s Identity: ‘The Most Beautiful Equation.’](https://www.livescience.com/51399-eulers-identity.html)
 2. [Visualizing the Riemann Hypothesis and Analytic Continuation - YouTube](https://youtu.be/sD0NjbwqlYw)
-3. [Riemann Hypothesis | Clay Mathematics Institute.](https://www.claymath.org/millennium-problems/riemann-hypothesis)
+3. [Riemann Hypothesis - Clay Mathematics Institute.](https://www.claymath.org/millennium-problems/riemann-hypothesis)
 4. [Backpropagation — ML Glossary Documentation](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html)
 5. [Hawking, Stephen W. A Brief History of Time.](https://books.google.co.in/books/about/books?id=E7mEnx3zE4AC)
 6. [Hawking, Stephen, and Leonard Mlodinow. The Grand Design.](https://books.google.co.in/books/about/books?id=RoO9jkV-yzIC)

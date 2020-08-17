@@ -15,7 +15,7 @@ The club boasts of organizing numerous talks conducted by professors and student
 
 Horizon has diverse academic interests across various disciplines of scientific research, with members having varied levels of experience devoted to pursuing these interests. Many members join the club with little to no prior experience, the only prerequisite being a thirst to learn more about the universe. The club provides them with an opportunity to enjoy the company of other equally enthusiastic students while learning more about the secrets of the cosmos, with one sole purpose in mind – To explore space: the final frontier; to boldly go where no man has gone before!
 
-[Click here to know more about the club and its activities]({% post_url 2020-07-04-horizon %})
+[Click here to know more about the club and its activities]({% post_url 2020-08-14-horizon %})
 
 ## Horizon 2020 Team
 
