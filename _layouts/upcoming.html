@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <article class="col col-12 col-t-10 push-t-1 page">
+      <div class="page-content">
+        <div class="page-head">
+          <h1 class="page-title">{{ site.uptitle | escape }}</h1>
+        </div>
+
+        <div class="page-body">
+          <img src="{{ site.baseurl }}/posters/{{ site.upimg}}" /><br /><br />
+
+          {{ content }}
+
+          <blockquote>
+            <b>Link to session: </b>
+            <a href="{{ site.uplink }}" target="_blank">Click here</a>
+          </blockquote>
+        </div>
+      </div>
+    </article>
+    <!-- /.page -->
+  </div>
+</div>

@@ -1,5 +1,5 @@
 <aside class="sidebar">
-  
+
   {% if page.id %}
   <div class="widget widget-recent">
     <h3 class="widget-title">Recent Posts</h3>
@@ -44,15 +44,24 @@
         <a href="{{ site.instagram }}" class="social-profiles-link"><i class="ion ion-logo-instagram"></i></a>
       </li>
       {% else %} {% endif %}
-      
+
       {% if site.youtube %}
       <li class="social-profiles-item">
         <a href="{{ site.youtube }}" class="social-profiles-link"><i class="ion ion-logo-youtube"></i></a>
       </li>
       {% else %} {% endif %}
-      
+
     </ul>
   </div>
+
+  {% if site.upimg %}
+  <div class="widget widget-social">
+    <h3 class="widget-title">Upcoming Event</h3>
+    <a href="{{ site.baseurl }}\upcoming\"><img src="{{site.baseurl}}/posters/test.webp"></a>
+    <p style='textalign:center'>Click on the poster for more details.</p>
+  </div>
+  {% endif %}
+
   <!--
   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>
@@ -93,5 +102,5 @@
     {% endfor %}
     </ul>
   </div>
-  
+
 </aside> <!-- /.sidebar -->

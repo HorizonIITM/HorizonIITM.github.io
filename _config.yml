@@ -1,3 +1,4 @@
+---
 #-------------------------------
 # General Site Settings
 
@@ -9,22 +10,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #staticman_url: https://api.staticman.net/v3/entry/github/HorizonIITM/HorizonIITM.github.io/master/comments
 #-------------------------------
 # About Section
-author-name:   Horizon
+author-name: Horizon
 author-avatar: favicon.png
-
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/horizon.iitm/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
+facebook: https://facebook.com/horizon.iitm/ # Add your Facebook handle
+twitter: https://twitter.com/ # Add your Facebook handle
 instagram: https://www.instagram.com/horizoniitm/ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
-youtube:  https://www.youtube.com/horizoniitm/
+youtube: https://www.youtube.com/horizoniitm/
 
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: horizoniitm # Add your shortname for Disqus Comment. For example mr-brown
-
 
 #-------------------------------
 # Instagram Feed
@@ -35,17 +34,15 @@ theme: jekyll-theme-cayman
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
 
-
 #-------------------------------
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
 
 #-------------------------------
 # Build settings
 markdown: Kramdown
 mathjax: true
-permalink: ':title/'
+permalink: ":title/"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -60,7 +57,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-
 #-------------------------------
 # Exclude from processing.
 # exclude:
@@ -73,3 +69,9 @@ sass:
 #   - vendor/ruby/
 collections:
   gallery:
+
+#--------------------------------
+# upcoming event
+upimg: test.webp
+uptitle: Toit Talk
+uplink: https://www.youtube.com/watch?v=dQw4w9WgXcQ
