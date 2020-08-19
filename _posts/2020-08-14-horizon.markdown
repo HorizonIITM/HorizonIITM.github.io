@@ -37,7 +37,7 @@ Go ahead and check our [gallery]({{site.baseurl}}/gallery "Gallery") for more am
 
 ## Boltzmann Sessions
 
-These sessions started off as a group of physics enthusiastic people informally meeting to discuss various topics, from Blackholes to the Big Bang. Students talk about their research projects or take up a topic and conduct an interactive session. These sessions are held weekly. We have also put up series like _'Introduction to Special Theory of Relativity'_ and _'Stellar Astrophysics'_ as part of these sessions. Starting this year, we have extended Boltzmann sessions to topics incorporating applied physics and engineering domains. [Click here to access the resources of the Boltzmann Session lectures.]({{site.baseurl}}/resources Resources)
+These sessions started off as a group of physics enthusiastic people informally meeting to discuss various topics, from Blackholes to the Big Bang. Students talk about their research projects or take up a topic and conduct an interactive session. These sessions are held weekly. We have also put up series like _'Introduction to Special Theory of Relativity'_ and _'Stellar Astrophysics'_ as part of these sessions. Starting this year, we have extended Boltzmann sessions to topics incorporating applied physics and engineering domains. [Click here to access the resources of the Boltzmann Session lectures.]({{site.baseurl}}/resources/#boltzmann-sessions)
 
 ![]({{site.baseurl}}/img/1-6.webp)
 
@@ -75,7 +75,7 @@ Some of our club members have also visited _Gauribidanur(GBD) Radio Observatory_
 
 Beyond this big lot of activities, the club also focuses on research-based Physics and Astro projects. We have completed projects in Astrodynamics, Photometry, Spectroscopy, and have also worked on building a handheld Spectrometer, Radio-horn antenna, and Tesla coil.
 
-The current list of projects can be found here(insert the git link or blog-article with project details).
+The current list of projects can be found [here]({{ site.baseurl }}/projects)
 
 With all the ongoing projects and events, we aim to expand the _horizons_ (pun intended) of our scientific and intellectual knowledge.
 

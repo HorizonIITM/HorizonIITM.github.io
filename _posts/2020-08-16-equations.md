@@ -22,7 +22,7 @@ These guys are everywhere. Perhaps they’re the real ‘omnipresent’ entities
 
 It so happens that they’re not just omnipresent, but too powerful (and beautiful?). And that’s probably the essence of this post. I will start by sprinkling two so-called equations in mathematics which happen to be ‘mysterious’ and ‘beautiful’ in many ways, in my article. You can stare at them for as long as you like, or flip through if it sounds like nightmare, for there’s a lot more that comes up later!
 
-## The Irritational Guys win it after all
+## The Irrational Guys win it after all
 
 If you’ve had a background in science, you would have almost definitely come across the Euler’s identity:
 
