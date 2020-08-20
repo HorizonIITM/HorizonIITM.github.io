@@ -113,7 +113,11 @@ Horizon has diverse academic interests across various disciplines of scientific 
     <tbody>
     <tr>
         <td>Sayak Guha Roy</td>
+        <td>Chaitanya</td>
+    </tr>
+    <tr>
         <td>Shreenath</td>
+        <td>Abhinav</td>
     </tr>
     </tbody>
     <thead>
