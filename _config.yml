@@ -32,7 +32,7 @@ instafeed: false # To enable the instafeed, use the value true. To turn off use 
 theme: jekyll-theme-cayman
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-176056646-1 # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
