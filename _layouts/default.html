@@ -1,24 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
-{% include head.html %}
-<!--{% include breadcrumbs.html %}-->
-<body>
-
-  {% if site.google-analytics %}
-    {% include google-analytics.html %}
-  {% endif %}
-  {% include loader.html %}
-  {% include header.html %}
-
-      {{ content }}
-
-  {% include footer.html %}
-  {% include javascripts.html %}
-  <!--{% if page %}
+  {% seo %} {% include head.html %}
+  <!--{% include breadcrumbs.html %}-->
+  <body>
+    {% if site.google-analytics %} {% include google-analytics.html %} {% endif
+    %} {% include loader.html %} {% include header.html %} {{ content }} {%
+    include footer.html %} {% include javascripts.html %}
+    <!--{% if page %}
     <script src="/js/jquery-3.3.1.min.js"></script>
     {% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
   {% endif %}-->
-</body>
-
+  </body>
 </html>

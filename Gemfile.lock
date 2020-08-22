@@ -244,6 +244,7 @@ DEPENDENCIES
   github-pages
   jekyll (>= 3.8.4)
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
   wdm (~> 0.1.0)
