@@ -13,6 +13,7 @@ Boltzmann Sessions are the series of talks presented by students on the topic of
 - Quantum Computing
   - [Part I](https://youtu.be/U3ziLg0znhU)
   - [Part II](https://youtu.be/MTgkGVOEnEk)
+- [Particle Acceleration in Wolf-Rayet stars](https://youtu.be/-CMI3KfPa2A)
 
 ## Python for Astronomy (tutorial series)
 
@@ -28,3 +29,5 @@ Boltzmann Sessions are the series of talks presented by students on the topic of
 
 - [Prof. Suresh Govindarajan \| Partitions Project - _Undergraduate Research: Myth or Reality?_](https://youtu.be/FksUfFn_BPw)
 - [Prof. L. Sriramkumar \| Big Bang vs. Big Bounce](https://youtu.be/Ie7yMQB6Jto)
+- [Dr. Dawood Kothawala \| Spacetime, Gravity and Black Holes](https://youtu.be/Fqb_e7waABY)
+- [Dr. Debarati Chatterjee \| From Nuclei to Neutron Stars: Probing Nuclear Matter](https://youtu.be/tgAYWoLGKy4)
