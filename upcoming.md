@@ -3,4 +3,6 @@ layout: upcoming
 permalink: /upcoming/
 ---
 
-Neutron stars are effectively laboratories in space that allow us to investigate properties of dense matter under extreme conditions, far from the realm of terrestrial nuclear experiments. While multi-wavelength astronomical observations provide us a wealth of data about neutron stars, gravitational waves are allowing us for the first time to probe their interior composition directly, enabling us to understand the nature of nuclear matter.
+We study a simplified model of evolution of genome population in time, in context of asexual and sexual reproduction in a population. We study the characteristics of the solution, steady state and comparison of the two methods of reproduction. We find the maximum tolerable mutation rate and the cost of sustaining males (address the cost-explorability and cost-redundancy trade offs). We focus on the validity (and generality) of assumptions and where they break down and its implications and examples in real life. We also study how information theory comes into the picture and rate of information acquisition, its implications and connection to Maxwell's demon, Landauer's exorcism and second law of thermodynamics, and try and conclude some necessary conditions for evolution to take place.
+
+**Prerequisites:** Basics of Probability and Differential Equations, freshmen level.
