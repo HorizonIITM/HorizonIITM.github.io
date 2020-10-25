@@ -4,6 +4,7 @@ title: Horizon - The Physics and Astronomy Club
 date: 2020-08-14 08:00:00 +0000
 image: 1-0.webp
 tags: [Horizon]
+author: Horizon
 ---
 
 ![]({{site.baseurl}}/img/1-1.webp)

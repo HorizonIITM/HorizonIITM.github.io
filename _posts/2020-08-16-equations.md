@@ -4,12 +4,10 @@ title: Equations, equations, equations...
 date: 2020-08-16 08:00:00 +0000
 image: 3-0.webp
 tags: [Mathematics]
-description: "An article by Rahul Priyadarshan"
+description: Maybe you hate equations. Maybe you love them.  Maybe they make you look insanely cool. Maybe you should read this article.
+author: Rahul Priyadarshan
 ---
 
-An article by [Rahul Priyadarshan](https://www.instagram.com/recaptcha_19/)
-
-<hr>
 > I probably frightened half of my audience already :anguished:.
 
 Maybe you hate equations. Maybe you love them. Maybe they’re irritating pieces of junk. Maybe they make you look insanely cool.

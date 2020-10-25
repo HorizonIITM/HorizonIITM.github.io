@@ -72,6 +72,6 @@ collections:
   gallery:
 #--------------------------------
 # upcoming event
-upimg: jm.webp
-uptitle: "New advances in Diffuse Ultraviolet Background"
+upimg:
+uptitle:
 uplink:
