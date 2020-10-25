@@ -29,6 +29,9 @@
   {% endfor %} {% endif %} {% if author %}
   <meta property="article:author" content="{{ author.name }}" />
   {% endif %}
+  <meta property="og:image:height" contet="200" />
+  <meta property="og:image:width" contet="200" />
+
   <link
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | absolute_url }}"
