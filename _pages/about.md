@@ -17,6 +17,54 @@ Horizon has diverse academic interests across various disciplines of scientific 
 
 [Click here to know more about the club and its activities]({% post_url 2020-08-14-horizon %})
 
+## Horizon 2021 Team
+
+<table class='centered responsive-table'>
+    <thead>
+    <tr>
+        <th colspan='2'>Heads</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Hrishabh Srivastava</td>
+        <td>Rajeshkumar</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Strategists</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Aniket Kukreti</td>
+        <td>Ashish Shroti</td>
+    </tr><tr>
+        <td>Vivan Bhatt</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Coordinators</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Jenil Sheth</td>
+        <td>Gitartha Bharadwaj</td>
+    </tr><tr>
+        <td>Nidhi Biswas</td>
+        <td>Nidhi Sonwane</td>
+    </tr><tr>
+        <td>Sukeerth</td>
+        <td>Sumanth</td>
+    </tr><tr>
+        <td>Trambadia Mantra</td>
+    </tr>
+    </tbody>
+</table>
+
 ## Horizon 2020 Team
 
 <table class='centered responsive-table'>
@@ -29,17 +77,6 @@ Horizon has diverse academic interests across various disciplines of scientific 
     <tr>
         <td>Rahul Priyadarshan</td>
         <td>Vaibhavi Gawas</td>
-    </tr>
-    </tbody>
-    <thead>
-    <tr>
-        <th colspan='2'>Ex-Heads (2019-20)</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Nimisha Sharma</td>
-        <td>Pranav Satheesh</td>
     </tr>
     </tbody>
     <thead>
