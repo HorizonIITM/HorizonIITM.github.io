@@ -5,28 +5,40 @@ permalink: /projects/
 image: projects.webp
 ---
 
-These are the projects being undertaken by Club for the year 2020-2021.
+These are the projects being undertaken by Club for the year 2021-2022.
 
-## Estimating Age of Star Clusters
+## Monte-Carlo Generators in High Energy Physics
 
-Age of a star cluster is directly linked to the type of stars and its stellar evolution history. This project will be a continutation of the work done by spectroscopy and photometry project members last year. The aim is to calculate the age for various open and globular clusters using just the FITS data from Sloan Digital Sky Survey as the input. In the first phase, we can develop a first order estimate using known stellar evolution models. once this is done, the members can work on their own stellar evolution models and isochrone relation to fit the data obtained. This will be extended to our own data taken from our telescope. The project can be extended further to multiple clusters and effective fitting algorithms and also ML models.
+High Energy Physics heavily relies on Monte Carlo or random event generators to simulate the collisions or scattering events. We will test the results of such simulations against the experimental data, and hence verify the various physics
+models implemented by the MC-generators.
 
-## A sensitive Cloud Chamber: Particle Detector @ Home
+This project deals with 3 such generators (Pythia8, Herwig7, and Sherpa2), and studies the parton shower models used in these generators(A very detailed study about the assumptions and physics applied in case of each of these parton shower models, is what would be initially looked at). Pythia mainly uses Dire shower, Sherpa uses CSS shower, Herwig is built with a way to implement Dipole and Powheg showers.
 
-Cloud chamber is an elementary particle detector and it played a prominent role in early particle physics. It was used in the discovery of muons, positrons, kaons, etc. The aim of this project will be to construct a cloud chamber and observe the trails left by particles produced by cosmic rays.
+The basic list of tasks is as followed:
 
-## Dynamics and Chaos in Astronomy
+- Generate data of electron-proton collision events using either of the MC-generators.
+- Obtain the plots of basic parameters(for eg. energy of electron after the collision).
+- Compare the output with real experimental data (for this we will use a HEP tool, named RIVET analysis, and for ep collision, we can use the previous 1994-HERA data)
+- Explain the deviations of MC-data from experimental data, based on the parton shower models used (later this will be expanded to include other specifics too).
 
-Chaos is prominent in astrodynamics. The aim of the project is to Study the dynamics of planetary systems and solve the dynamics using numerical Simulations. The N-body simulation Python package REBOUND will be used for the Project. We will address several problems such as the stability of Saturn's rings and the Kirkwood gaps
+## Visualisation and Dynamics of Chaotic Systems
 
-## Cosmic Distance Ladder and Hubble's Parameter Measurement
+Most physical and biological systems are governed by nonlinear differential equations, making nonlinear dynamics a very important field of study. More often than not, these systems are chaotic in nature with small changes in the initial conditions completely altering their evolution.
+Initially this project will study certain systems of simultaneous equations and solve them using numerical techniques. On obtaining a solution, Python and JavaScript will be used to plot and visualize their evolution and produce interactive simulations for the same.
 
-Few years back we did Hubble constant estimation using Supernovae and CMB data methods. This project will further go down the road by using another method called Tully-Fisher relation to estimate distances to galaxies. We can further combine the results obtained using various methods to figure out the most efficient method. Hubble parameter estimation is a research problem. We still have no clear answer for it’s exact value. This project can be extended further to even Gravitational waves as standard sirens.
+## Sounding Rocket
 
-## Space Mission Design Tool
+This project involves designing and manufacturing a sounding rocket driven by a liquid propulsion system and capable of reaching an altitude of 10,000 ft. The team aims to participate in the Spaceport America Cup 2022 edition (in favorable circumstances). The subsystems in the team are - engine, test stand, hardware and software, sponsorship, and PR.
 
-With increasing interplanetary missions lately, there is a requirement for space mission design, optimization and navigation. The objective of this project is to develop software which can calculate and simulate trajectories of interplanetary spacecraft missions. Design of maneuvers and transfer orbit optimization will also be embedded in the software. Perturbations of various sorts (perturbations occurring due to solar radiation,Oblateness of planets, asteroid and comet influence) would be considered while designing the software.The preliminary stage of the project will be coded in MATLAB/Python.
+## Stability analysis of Strongly Magnetized Neutron Stars
 
-## Team Aether
+Magnetic fields of Neutron stars are among the highest observed in the universe. Particle physics experiments have tried to generate such strong fields but they tend to be confined to small regions, highly unstable, and decay quickly.
+But some of the compact objects like Neutron stars and White Dwarfs are known to hold them for very long periods and sustain their stability, although the observed Neutron Stars and White Dwarfs are not known to have fields higher than 10^15 Gauss.
+This project will involve simulating the Neutron stars using XNS-code and python libraries, and the other broader questions that will be explored are
 
-The team will work upon building a sounding rocket (it will not be from scratch since previous members have worked upon it a bit), aiming especially for the 2021 edition of Spaceport America cup. We will start working with solid fuel rocket and gradually solving the problem with liquid and hybrid rockets i.e their small scale efficiency, production, storage, navigation etc.
+1. Is there an upper cap to the magnetic fields these compact objects can handle, and
+2. How does the stability of such stars behave at very strong fields?
+
+## Estimation of Hubble Parameter
+
+This project is a continuation from last year, where the Hubble parameter was estimated using the Tully Fisher relation. The aim of this project is to refine the Hubble parameter estimate by including other standard candles such as cepheid variables and type 1a supernovae and improve the estimate obtained from the Tully Fisher relation by incorporating surface brightness data from more galaxies. In due course of time, we will also try to also get a Hubble parameter estimate from CMB data. Further scope (based on interest and understanding of cosmology) would be to tune cosmological parameters and build models to visualize the expansion of the universe for different cases, and also come up with novel libraries and tools from scratch.
