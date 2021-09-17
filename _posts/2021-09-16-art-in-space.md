@@ -8,7 +8,7 @@ description: What connection does art - a seemingly aesthetic and intellectual p
 author: Tejashree Murugan
 ---
 
-**What connection does art - a seemingly aesthetic and intellectual pursuit have with space exploration? These Red Planet researchers offer us a new perspective on the significance of art in future space missions.**
+**What connection does art - a seemingly aesthetic and intellectual pursuit - have with space exploration? These Red Planet researchers offer us a new perspective on the significance of art in future space missions.**
 
 ------
 
@@ -77,4 +77,3 @@ Creating these societies also offers us an opportunity to reinvent what it means
 1. [The Institutions of Extraterrestrial Liberty (Day 4)](https://www.youtube.com/watch?v=HYxRow1HvBI)
 
 <hr>
-
