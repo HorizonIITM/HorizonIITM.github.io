@@ -42,10 +42,11 @@ The below video is a numerical simulation representing the coalescence of a blac
 
 <p align="center"> 
 <figure class="video_container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Rd3p3xPtWn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure> 
-<em> (Courtesy: S.V.Chaurasia, T. Dietrich, N. Fischer, S. Ossokine, H. Pfeiffer) </em>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Rd3p3xPtWn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </figure> 
 </p>
+
+<p align="center"> <em> (Courtesy: S.V.Chaurasia, T. Dietrich, N. Fischer, S. Ossokine, H. Pfeiffer) </em> </p>
+
 
 ------
 
