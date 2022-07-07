@@ -7,7 +7,7 @@ tags: [Astrophysics,Gravitational Waves,LIGO]
 description: A long time ago in a galaxy far, far away... two sisters of colossal stature clashed horns with one another.
 author: Nidhi Biswas & Nidhi Sonwane
 ---
-> **A long time ago in a galaxy far, far way...**
+> **A long time ago in a galaxy far, far away...**
 
 *Hundreds of millions of years before the first dinosaurs appeared on Earth, two sisters (cousins?) clashed with great fervour. The grand ordeal ended swiftly, with one sibling vanquishing the other. Their battle may have concluded, but their screams and roars wandered the Universe endlessly. After travelling the cosmos for eons, their cries finally fell on sympathetic ears, and the story of the two sisters was told at long last.*
 
