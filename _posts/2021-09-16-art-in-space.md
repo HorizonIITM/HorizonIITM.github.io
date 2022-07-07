@@ -76,4 +76,5 @@ Creating these societies also offers us an opportunity to reinvent what it means
 1. [Mars Society homepage](http://mars160.marssociety.org/)
 1. [The Institutions of Extraterrestrial Liberty (Day 4)](https://www.youtube.com/watch?v=HYxRow1HvBI)
 
-<hr>
+------
+*Edited by Aniket Kukreti*
