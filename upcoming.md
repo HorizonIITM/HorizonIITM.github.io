@@ -15,8 +15,16 @@ Maybe you've been curious about that lauded theory, special relativity? Or about
 
 
 
-Question no longer, because Horizon IITM brings to you Horizon's Guide to the Galaxy where we will introduce various topics in physics and astronomy (and also answer the above questions 😉). 
+Question no longer, because Horizon IITM brings to you Horizon's Guide to the Galaxy where we will introduce various topics in physics and astronomy (and also answer the above questions 😉). The schedule of the events is provided below.
 
+
+|Date | Title|
+|---|---|
+|06 Feb. '23 | Expedition to Exoplanets |
+|07 Feb. '23 | Today's Special: Relativity |
+|08 Feb. '23 | An Expanding Universe |
+|09 Feb. '23 | _Boltzmann Session: Simulating Stellar-clusters_ |
+|10 Feb. '23 | Observational Astronomy |
 
 After some exciting activities for this year, we will introduce Boltzmann sessions to the freshie batch with its first instalment in this week of fun-filled things! Started as an informal meeting where students would gather together to talk about a topic or their research project, the Boltzmann session will help you interact with cool seniors and learn at the same time. 
 
