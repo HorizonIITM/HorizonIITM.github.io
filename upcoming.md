@@ -3,4 +3,22 @@ layout: upcoming
 permalink: /upcoming/
 ---
 
-Our dynamic Universe is adorned by cosmic fireworks: energetic and ephemeral beacons of light that are a million (nova) to a billion (supernova) times brighter than our sun. Fireworks synthesize most elements in our periodic table -- while supernovae synthesize the lighter elements, neutron star mergers synthesize half the elements in the periodic table heavier than iron. I will share with you how we discover cosmic fireworks with robotic telescopes and how we undertake a global, panchromatic follow-up campaign to characterize the astrophysics and astrochemistry. Owing to the nuclear physics of bound-bound opacity, the infrared is the most sensitive probe of the heaviest elements (e.g., Gold, Platinum, Uranium, Neodymium). I will describe a brand new wide-field infrared surveyor, Palomar Gattini-IR, and the next generation WINTER, DREAMS and Cryoscope surveyors. I will also discuss combining information from multiple messengers: light, neutrinos and gravitational waves.
+Greetings from Horizon - the Physics and Astronomy club of IIT Madras!
+
+
+Ever wondered what lies beyond our solar system?
+
+Or what does gravitational lensing mean?  
+
+
+Maybe you've been curious about that lauded theory, special relativity? Or about how landing on a planet in a different galaxy feels like?
+
+
+
+Question no longer, because Horizon IITM brings to you Horizon's Guide to the Galaxy where we will introduce various topics in physics and astronomy (and also answer the above questions 😉). 
+
+
+After some exciting activities for this year, we will introduce Boltzmann sessions to the freshie batch with its first instalment in this week of fun-filled things! Started as an informal meeting where students would gather together to talk about a topic or their research project, the Boltzmann session will help you interact with cool seniors and learn at the same time. 
+
+
+So allow us to be your Babel Fish and let's Hitch-hike our Heart of Gold, shoot through a wormhole and cross the horizons to explore distant galaxies and restaurants at the end of the universe :D
