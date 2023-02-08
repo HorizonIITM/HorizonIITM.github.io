@@ -9,7 +9,7 @@ permalink: /about/
 
 Horizon, the Physics and Astronomy society of IIT Madras is a registered voluntary student organization, which promotes the learning of physics and astronomy on campus and in the community.
 
-For most uninitiated freshmen joining IIT Madras, Horizon is one among the ten clubs which are a part of Cф or the Centre for Innovation, the student lab of IIT Madras. However, digging deeper reveals much more than what meets the eye.
+For most uninitiated freshmen joining IIT Madras, Horizon is one among the thirteen clubs which are a part of Cф or the Centre for Innovation, the student lab of IIT Madras. However, digging deeper reveals much more than what meets the eye.
 
 The club boasts of organizing numerous talks conducted by professors and student researchers, special viewings of unusual astronomical activities and observation sessions, including off-campus ones – apart from those on-campus – to provide a recluse from the threat of the air and light pollution in the metropolis that is Chennai. All these activities of the club are open to the entire student community which enriches the experience. The club also undertakes student research projects every year, focusing on varied topics in physics and astronomy.
 
