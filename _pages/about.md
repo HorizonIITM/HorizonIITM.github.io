@@ -17,6 +17,51 @@ Horizon has diverse academic interests across various disciplines of scientific 
 
 [Click here to know more about the club and its activities]({% post_url 2020-08-14-horizon %})
 
+## Horizon 2022 Team
+
+<table class='centered responsive-table'>
+    <thead>
+    <tr>
+        <th colspan='2'>Heads</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Sukeerth Ramkumar</td>
+        <td>Nidhi Biswas</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Strategists</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Gitartha Bharadwaj</td>
+        <td>Nidhi Sonwane</td>
+    </tr><tr>
+        <td>Sumanth Hegde</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Coordinators</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Aniket</td>
+        <td>Aditya</td>
+    </tr><tr>
+        <td>Avinandan</td>
+        <td>Param</td>
+    </tr><tr>
+        <td>Vardhan</td>
+    </tr>
+    </tbody>
+</table>
+
 ## Horizon 2021 Team
 
 <table class='centered responsive-table'>
