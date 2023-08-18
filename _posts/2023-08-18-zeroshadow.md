@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zero Shadow Day
-date: 2023-08-18 19:00:00 +0000
+date: 2023-08-18 09:00:00 +0000
 image: 13-0.webp
 tags: [Astronomical events, Astronomy]
 description: Twice a year the sun hides an essential part of existence that we are used to-- shadows. What are these days? What is the significance of it? 
