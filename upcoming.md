@@ -5,28 +5,13 @@ permalink: /upcoming/
 
 Greetings from Horizon - the Physics and Astronomy club of IIT Madras!
 
-
-Ever wondered what lies beyond our solar system?
-
-Or what does gravitational lensing mean?  
+As the new semester has officially begun, we are keen to make some exhilarating announcements. Whether you're a familiar face or a fresh presence on our campus, we're here to provide direction throughout your journey and make you experience Insti at its best.
 
 
-Maybe you've been curious about that lauded theory, special relativity? Or about how landing on a planet in a different galaxy feels like?
+The Horizon is back with the concatenation of lectures which is ‘Quarks to Quasars.’ This time we are inviting  Prof. Masahide Yamaguchi for the talk. He is presently the Director of the Institute for Basic Science, Daejeon, Korea. 
 
+#### Title: 
+Mystery Of The Universe 
 
-
-Question no longer, because Horizon IITM brings to you Horizon's Guide to the Galaxy where we will introduce various topics in physics and astronomy (and also answer the above questions 😉). The schedule of the events is provided below.
-
-
-|Date | Title|
-|---|---|
-|06 Feb. '23 | Expedition to Exoplanets |
-|07 Feb. '23 | Today's Special: Relativity |
-|08 Feb. '23 | An Expanding Universe |
-|09 Feb. '23 | _Boltzmann Session: Simulating Stellar-clusters_ |
-|10 Feb. '23 | Observational Astronomy |
-
-After some exciting activities for this year, we will introduce Boltzmann sessions to the freshie batch with its first instalment in this week of fun-filled things! Started as an informal meeting where students would gather together to talk about a topic or their research project, the Boltzmann session will help you interact with cool seniors and learn at the same time. 
-
-
-So allow us to be your Babel Fish and let's Hitch-hike our Heart of Gold, shoot through a wormhole and cross the horizons to explore distant galaxies and restaurants at the end of the universe :D
+#### Abstract: 
+Recent developments in theory and observation have revealed much about the universe that was previously the realm of myth and philosophy. The universe is currently expanding, and in the past, it was in a very hot and dense state. Going further back in time, there was a rapid expansion called inflation. On the other hand, it is now known that only about 5% of the energy of the universe is accounted for by the elements we know so well, and the remaining 95% is composed of unknown components. In this talk, I would like to explain what is currently known about the universe and what are the challenges for the future.
