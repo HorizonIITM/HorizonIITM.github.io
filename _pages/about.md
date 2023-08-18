@@ -27,7 +27,7 @@ Horizon has diverse academic interests across various disciplines of scientific 
     </thead>
     <tbody>
     <tr>
-        <td>Aadyot Bharadwajr</td>
+        <td>Aadyot Bharadwaj</td>
         <td>Aditya Mohapatra</td>
     </tr>
     </tbody>
@@ -39,7 +39,7 @@ Horizon has diverse academic interests across various disciplines of scientific 
     <tbody>
     <tr>
         <td>Aniket Dwivedi</td>
-        <td>Kavin Chakravarthy</td>
+        <td>Kavin Chakaravarthy</td>
     </tr>
     </tbody>
     <thead>
