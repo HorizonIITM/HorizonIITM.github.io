@@ -9,7 +9,7 @@ author: Mansha Kochar
 ---
 
 <p>The astronomical world is full of incredible and exciting events, from meteor showers to supernova explosions, eclipses to rare comet sightings, and many as the only list keeps growing.</p>
-<p>One such approaching event is Zero Shadow Day, which was observed in Chennai on August 18, 2023. A zero-shadow day is a remarkable occurrence in the sky when the sun at its highest point and casts no shadow.</p>
+<p>One such event is Zero Shadow Day, which was observed in Chennai on August 18, 2023. A zero-shadow day is a remarkable occurrence in the sky when the sun is at its highest point and casts no shadow.</p>
 <h5 id="so-what-causes-the-zero-shadow"><a name="_skp64z34l2ki"></a><strong>SO WHAT CAUSES THE ZERO SHADOW?</strong></h5>
 <p>We all know that the plane or revolution and axis of rotation don’t align, but are inclined by 23.5 degrees. Yes, and this also indicates that the sun crosses between 23.5 degrees North and 23.5 degrees South, back and forth. When the latitude of a location in this region and the declination of the sun is equal, the sunrays fall exactly on top of the region. Hence one cannot find any shadow of a grounded object in such events. </p>
 <h5 id="well-what-happens-during-the-zero-shadow-day-and-who-can-see-it"><a name="_dt5qd5613abw"></a><strong>WELL… WHAT HAPPENS DURING THE ZERO SHADOW DAY AND WHO CAN SEE IT?</strong></h5>
