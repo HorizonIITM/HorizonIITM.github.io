@@ -15,7 +15,9 @@ author: Mansha Kochar
 <h5 id="well-what-happens-during-the-zero-shadow-day-and-who-can-see-it"><a name="_dt5qd5613abw"></a><strong>WELL… WHAT HAPPENS DURING THE ZERO SHADOW DAY AND WHO CAN SEE IT?</strong></h5>
 <p>Unlike its name, the zero-day does not last for an entire day; the duration is relatively small: ranging for only a few minutes, and occurs twice on a given day. Zero Shadow Day occurs during the equinoxes, which are the times of the year when the tilt of the Earth&#39;s axis is such that the plane of the Earth&#39;s equator passes through the centre of the Sun. This alignment causes the Sun to be directly above the equator, resulting in the phenomenon of zero shadows at locations near the Tropics. This phenomenon is observed twice in the region between the Tropic of Cancer and Capricorn at different dates and locations.</p>
 <p>This is also called Lahaina Noon in Hawaii, where it happens four times a year due to its location near the equator</p>
-![](/img/13-1.webp)
+<p align="center">
+   <img src="/img/13-1.webp" alt>
+</p>
 <h5 id="what-were-its-historical-significance"><a name="_sgbj36narmpm"></a><strong>WHAT WERE ITS HISTORICAL SIGNIFICANCE</strong></h5>
 <p>This particular phenomenon and its observations have been well-known and studied by ancient civilisations, like the Egyptians and Greeks. To the point where these observations were used in agricultural cycles and calendars.</p>
 <p>It was also the foundation for measuring the circumference of the Earth using these observations which were groundbreaking at that time. A Greek mathematician, Eratosthenes formulated a relation between the length of the shadow and the circumference of the Earth using basic trigonometric relations and principles of geometry.</p>
@@ -33,7 +35,7 @@ author: Mansha Kochar
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Zero_shadow_day">https://en.wikipedia.org/wiki/Zero_shadow_day</a></li>
 <li><a href="https://astron-soc.in/outreach/activities/zero-shadow-day/">https://astron-soc.in/outreach/activities/zero-shadow-day/</a></li>
-<li><a href="https://www.scientificamerican.com/article/measure-earths-circumference-with-a-shadow/#:~:text=In%20200%20B.C.%20Eratosthenes%20estimated,made%20with%20no%20modern%20technology">https://www.scientificamerican.com/article/measure-earths-circumference-with-a-shadow/#:~:text=In%20200%20B.C.%20Eratosthenes%20estimated,made%20with%20no%20modern%20technology</a>!</li>
+<li><a href="https://www.scientificamerican.com/article/measure-earths-circumference-with-a-shadow/#:~:text=In%20200%20B.C.%20Eratosthenes%20estimated,made%20with%20no%20modern%20technology">Measure Earths Circumference With a Shadow
 <li><a href="https://en.wikipedia.org/wiki/Jantar_Mantar">https://en.wikipedia.org/wiki/Jantar_Mantar</a></li>
 <li><a href="https://www.indiatoday.in/science/story/zero-shadow-day-bengaluru-india-time-equinox-2364305-2023-04-25">https://www.indiatoday.in/science/story/zero-shadow-day-bengaluru-india-time-equinox-2364305-2023-04-25</a></li>
 </ul>
