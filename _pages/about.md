@@ -17,6 +17,53 @@ Horizon has diverse academic interests across various disciplines of scientific 
 
 [Click here to know more about the club and its activities]({% post_url 2020-08-14-horizon %})
 
+## Horizon 2023 Team
+
+<table class='centered responsive-table'>
+    <thead>
+    <tr>
+        <th colspan='2'>Heads</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Aadyot Bharadwajr</td>
+        <td>Aditya Mohapatra</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Strategists</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Aniket Dwivedi</td>
+        <td>Kavin Chakravarthy</td>
+    </tr>
+    </tbody>
+    <thead>
+    <tr>
+        <th colspan='2'>Coordinators</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Ganesh</td>
+        <td>Navya</td>
+    </tr><tr>
+        <td>Vatsal</td>
+        <td>Anoushka</td>
+    </tr><tr>
+        <td>Joel</td>
+        <td>Srijan</td>
+    </tr><tr>
+        <td>Tanisha</td>
+        <td>Anjali</td>
+    </tr>
+    </tbody>
+</table>
+
 ## Horizon 2022 Team
 
 <table class='centered responsive-table'>
