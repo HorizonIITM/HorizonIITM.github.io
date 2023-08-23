@@ -13,6 +13,7 @@ Gamma Ray Bursts are highly energetic beams emitted from the explosions of a dyi
 <p align="center">
    <img src="/img/14-1.webp" alt>
 </p>
+
 # History
 
 During the Cold War, the US and the USSR signed the [Nuclear Test Ban Treaty](https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty) after witnessing the burning and heart-wrenching aftermath caused by the use of nuclear weapons. The US suspects the USSR of conducting space nuclear tests and sent satellites [Vela 3 and Vela 4](https://en.wikipedia.org/wiki/Vela_(satellite)) to spy on the state. But the satellites showed readings that were unlike any nuclear tests. The nature of the readings made it quite obvious that no country could have been blamed for these observations; they were something previously unknown to humans. Astronomers believed these could be the effects of a closer white dwarf, pulsars or other alternatives, but it could not be proven so. Observations from acute positioning with spectrometer devices concluded that these GRBs originated from distant galaxies.
