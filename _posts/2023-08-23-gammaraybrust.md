@@ -8,8 +8,6 @@ description: There are events far more devastating in the universe with the powe
 author: Ashik Anwar
 ---
 
-------
-
 Gamma Ray Bursts are highly energetic beams emitted from the explosions of a dying star, which in turn results in the birth of either a black hole or a neutron star. These luminous electromagnetic events are some of the most energetic events known to us next to the Big Bang. Some of these bursts can last a few milliseconds, while others may survive for several hours based on the origin of that GRB. During a GRB, a highly concentrated beam of gamma rays is shot from the poles of the star's explosion. This beam slowly fades into weaker electromagnetic waves, which astronomers call the [afterglow](https://astronomy.swin.edu.au/cosmos/G/Gamma+Ray+Burst+Afterglow). The recorded sources of these GRBs are billions of light years away from our planet, making their scale of emitted energy tremendously powerful.
 
 <p align="center">
