@@ -90,6 +90,7 @@ To this date, the detected GRBs have not proved fatal to us, mostly because all 
 One such event is also hypothesised to be the cause of the [Ordovician- Silurian extinction event](https://en.wikipedia.org/wiki/Late_Ordovician_mass_extinction) around 450 million years ago.
 However, there is no accurate model to predict the possible occurrence of such events, as that would require information to travel faster than the speed of light. Based on the developments of today, we can only observe GRBs after they take place. And Earth being in the outskirts of our galaxy at some of the lowest density regions, makes it one of the safest environments in our universe.
 
+
 # References
 
 [Gamma-ray burst - Wikipedia](https://en.wikipedia.org/wiki/Gamma-ray_burst#More_recent_instruments)
