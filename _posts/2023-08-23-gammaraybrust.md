@@ -23,8 +23,9 @@ In 1997, astronomers detected a gamma-ray burst ([GRB 970508](https://en.wikiped
 
 During the early stages of observing GRBs, their distance of origination is estimated by the amount of redshift in the wavelength of light observed. Consider the GRB 970508 mentioned above, with a proposed 6 billion light years from our planet, which had a redshift of z=0.835. For smaller values of 'z', *(z<<1 or by neglecting the effects of the expansion of the universe and the density of matter in space)* we can use the approximated formula as
 
-$$z = \frac{\Delta \lambda}{\lambda_{rest}}$$
-$$=frac{\lambda_{obs} - \lambda_{rest}}{\lambda_{rest}} = \frac{v}{c}$$
+$$z = \frac{\Delta \lambda}{\lambda_{rest}}  $$
+  
+$$= \frac{\lambda_{obs} - \lambda_{rest}}{\lambda_{rest}} = \frac{v}{c}$$
 
 $z = v/c$. *(Definition of redshift)*
 $v = Ho.d$ *(Hubble relation of distance and the velocity of the object; 46,200 mph per million light-years)*
