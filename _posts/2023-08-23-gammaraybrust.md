@@ -1,11 +1,18 @@
-# Gamma Ray Bursts
-
-# Introduction
+---
+layout: post
+title: Gamma Ray Burst
+date: 2023-08-23 09:00:00 +0000
+image: 14-0.webp
+tags: [Astrophysics, Stars and supernova]
+description: There are events far more devastating in the universe with the power to annihilate everything on their path. Far more dangerous than exploding supernovae and merging black holes. Being only second to the big bang in terms of energy. What are these events?
+author: Ashik Anwar
+---
 
 Gamma Ray Bursts are highly energetic beams emitted from the explosions of a dying star, which in turn results in the birth of either a black hole or a neutron star. These luminous electromagnetic events are some of the most energetic events known to us next to the Big Bang. Some of these bursts can last a few milliseconds, while others may survive for several hours based on the origin of that GRB. During a GRB, a highly concentrated beam of gamma rays is shot from the poles of the star's explosion. This beam slowly fades into weaker electromagnetic waves, which astronomers call the [afterglow](https://astronomy.swin.edu.au/cosmos/G/Gamma+Ray+Burst+Afterglow). The recorded sources of these GRBs are billions of light years away from our planet, making their scale of emitted energy tremendously powerful.
 
-![_cab3d73c-1732-42b0-aa1c-45e16fbdebc3.jpeg](Gamma%20Ray%20Bursts%2019b3835918f845ab97010eff1e26d5d8/_cab3d73c-1732-42b0-aa1c-45e16fbdebc3.jpeg)
-
+<p align="center">
+   <img src="/img/14-1.webp" alt>
+</p>
 # History
 
 During the Cold War, the US and the USSR signed the [Nuclear Test Ban Treaty](https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty) after witnessing the burning and heart-wrenching aftermath caused by the use of nuclear weapons. The US suspects the USSR of conducting space nuclear tests and sent satellites [Vela 3 and Vela 4](https://en.wikipedia.org/wiki/Vela_(satellite)) to spy on the state. But the satellites showed readings that were unlike any nuclear tests. The nature of the readings made it quite obvious that no country could have been blamed for these observations; they were something previously unknown to humans. Astronomers believed these could be the effects of a closer white dwarf, pulsars or other alternatives, but it could not be proven so. Observations from acute positioning with spectrometer devices concluded that these GRBs originated from distant galaxies.
@@ -16,7 +23,8 @@ In 1997, astronomers detected a gamma-ray burst ([GRB 970508](https://en.wikiped
 
 During the early stages of observing GRBs, their distance of origination is estimated by the amount of redshift in the wavelength of light observed. Consider the GRB 970508 mentioned above, with a proposed 6 billion light years from our planet, which had a redshift of z=0.835. For smaller values of 'z', *(z<<1 or by neglecting the effects of the expansion of the universe and the density of matter in space)* we can use the approximated formula as
 
-![redshift_equations.png](Gamma%20Ray%20Bursts%2019b3835918f845ab97010eff1e26d5d8/redshift_equations.png)
+$$z = \frac{\Delta \lambda}{\lambda_{rest}}$$
+$$=frac{\lambda_{obs} - \lambda_{rest}}{\lambda_{rest}} = \frac{v}{c}$$
 
 $z = v/c$. *(Definition of redshift)*
 $v = Ho.d$ *(Hubble relation of distance and the velocity of the object; 46,200 mph per million light-years)*
@@ -31,7 +39,7 @@ Even though these calculations and methods have been the basis of a lot of resea
 Hence, as an alternative approach, astronomers began to use the afterglow emitted after the main burst to determine its distance.
 The afterglow is the longer-lived emission at longer wavelengths *(X-ray, ultraviolet, optical, infrared, microwave and radio)* that follows the initial flash of gamma rays. The intensity of the burst is mapped with time and is called the light curve.
 
-![math_962_70c0048ae1e87f464650f4981e417ad2.png](Gamma%20Ray%20Bursts%2019b3835918f845ab97010eff1e26d5d8/math_962_70c0048ae1e87f464650f4981e417ad2.png)
+$$m-n = 2.5 \log(\frac{P_m}{P_n})$$
 
 Here, m and n are the [Apparent magnitudes](https://en.wikipedia.org/wiki/Redshift), with the measured Fluxes represented by Fm and Fn.
 An average GRB has a bolometric flux *(the apparent brightness when viewed at a distance 10 parsec away from Earth)* that does not change with distance. Whereas the GRB, for example, GRB 080319B, had an apparent brightness of 5.8 magnitudes. For reference, the range of what a naked eye can notice in the night sky is +6.
@@ -47,7 +55,10 @@ Several attempts have been made to classify these GRBs, the only identifiable di
 
 These GRBs have a duration of less than about two seconds. They account for about 30% of gamma-ray bursts. The fact that they were so short-lived did not allow astronomers to observe the afterglow until 2005, thereby causing their origins to remain unclear. After 2005, several short GRBs have been detected and localised. These GRBs originate from regions with little to no star formation, such as large elliptical galaxies. According to some astrophysicists, these short GRBs have a different origin than massive stars and have no relation to supernovae events, while Others proposed this origin from another type of explosion called kilonovae, resulting from the merger of a binary neutron star or a neutron star with a black hole.
 
-![GRB_BATSE_12lightcurves.png](Gamma%20Ray%20Bursts%2019b3835918f845ab97010eff1e26d5d8/GRB_BATSE_12lightcurves.png)
+<p align="center">
+   <img src="/img/14-2.webp" alt>
+</p>
+
 
 ## Long gamma-ray bursts
 
@@ -61,13 +72,16 @@ These are the events at the end of the long GRB, lasting longer than 10,000 seco
 
 For an event such as a GRB to be observable at this distance, it must have an extremely energetic source. The energy of a GRB is mostly in the form of gamma rays, with some exceptions having powerful optic counterparts. Numerically, it is calculated by studying its light curve, which is a graph that shows the brightness of the burst over time. It is done based on a simple analysis and further calculations. For example, consider the [GRB 080319B](https://en.wikipedia.org/wiki/GRB_080319B), which has an incredible optical counterpart, even visible to the naked eye. For this GRB, assuming the gamma rays are spherically distributed, the energy output would be around two times the rest mass energy equivalent of the Sun. which means the energy emitted if the Sun converts entirely to radiation.
 
-![_3c2f6019-fdb2-4313-a467-c463121036b6.jpeg](Gamma%20Ray%20Bursts%2019b3835918f845ab97010eff1e26d5d8/_3c2f6019-fdb2-4313-a467-c463121036b6.jpeg)
-
+<p align="center">
+   <img src="/img/14-3.webp" alt>
+</p>
 However, there is a catch in this if the radiations for the GRBs are distributed spherically, the earth would have been hit with several gamma-ray bursts, which is certainly not the case.
 Astrophysicists claim these Gamma Ray Bursts are highly focused explosions, with the energy of the entire burst concentrated on a narrow jet. The angular width of the jet beam is estimated by observing achromatic jet breaks in the afterglow light curves. The time after the slow decaying of the afterglow begins to fade rapidly. The observed time of the afterglow jet break after the prompt GRB contains information about the angular size of the outflows that produce these transients; general observations suggest that most jets have an angular width between 2 to 20 degrees.
 Since these are narrow beams, they appear much brighter than how they would look for a spherically emitted GRB. This concludes that the energy from the GRB to around 1/2000 solar mass energy equivalent. The angular width of short GRBs is not measured accurately because they are less luminous than long GRBs and have a concise duration. This leaves us pondering whether they are less likely to collimate or not collimated at all.
 
-![grb_shell_final-5bf5d6bbc9e77c00517dd697.jpg](Gamma%20Ray%20Bursts%2019b3835918f845ab97010eff1e26d5d8/grb_shell_final-5bf5d6bbc9e77c00517dd697.jpg)
+<p align="center">
+   <img src="/img/14-4.webp" alt>
+</p>
 
 # Effects on Earth
 
@@ -84,5 +98,3 @@ However, there is no accurate model to predict the possible occurrence of such e
 [Host Galaxy or Background Galaxy (arxiv.org)](https://arxiv.org/ftp/arxiv/papers/0801/0801.0780.pdf)
 
 [Brightness, Luminosity and Flux of Stars Explained | Perfect Astronomy](https://perfectastronomy.com/astronomy-course/luminosity-flux-stars/)
-
-[https://www.thoughtco.com/thmb/yg8zeA3b4biivEFkONKb4c1d_OM=/3840x2160/filters:no_upscale():max_bytes(150000):strip_icc()/grb_shell_final-5bf5d6bbc9e77c00517dd697.jpg](https://www.thoughtco.com/thmb/yg8zeA3b4biivEFkONKb4c1d_OM=/3840x2160/filters:no_upscale():max_bytes(150000):strip_icc()/grb_shell_final-5bf5d6bbc9e77c00517dd697.jpg)
