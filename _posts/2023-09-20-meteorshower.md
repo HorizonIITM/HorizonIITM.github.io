@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meteor Shower
-date: 2023-09-20 09:00:00 +0000
+date: 2023-09-20 06:00:00 +0000
 image: 15-0.webp
 tags: [Comets,Perseid meteor shower, Astronomy]
 description: Bright colourful strikes in the sky. Marvels of  debris left by comets that pass by ...A short read on meteor shower
