@@ -21,7 +21,6 @@ HOW DO WE DETECT THE EXISTENCE OF AN EXOPLANET?
 It is one of the first successful and most efficient ways of discovering the possible existence of an exoplanet. It is based on the principle of ‘Doppler shift’. The proposed argument is that the way a planet is caused to revolve around a star due to the gravitational pull of the star, in a similar manner, the star also moves around because of the gravitational pull by the planet. 
 <p align="center">
    <img src="/img/19-1.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 Since the planet is considerably smaller than the star in size, hence its movement is more apparent while on the other hand, the star movement is quite less and hence almost unperceivable by simple, crude observation. However, the movement can be detected by the changes in the wavelength of the energy waves emitted by the star, which is known as the ‘Doppler shift’. Hence, by studying the changes in these wavelengths, we can get an idea of the possible existence of exoplanets, and also an estimate of their size and number, if present.
 
@@ -29,13 +28,11 @@ Since the planet is considerably smaller than the star in size, hence its moveme
 This method is similar to the concept of eclipses; when a planet passes directly between an observer and the star it orbits, it blocks some of that star's light. For a brief period of time, that star actually gets dimmer. This helps in identifying the possibility of planets revolving around that star. In addition to this, the size and length of the transit gives an idea of the size and distance of the planet; large planets will block light, and likewise, planets farther away from the star will take longer time to pass in front of it.
 <p align="center">
    <img src="/img/19-2.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 
 In a similar way of understanding, we can also estimate the number of planets revolving around a star. In case of more than one planet transiting a star, the light curves will get complicated instead of simple ones due to overlapping effects of the planet. 
 <p align="center">
    <img src="/img/19-3.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 In addition to aiding the discovery of planets, this method can also be used to obtain information about their atmospheric composition and temperature. This is achieved by analysing the spectrum disturbance in the transit period.
 
@@ -51,7 +48,6 @@ Starshade: It is a device positioned in such a way as to block light from a star
 The phenomenon of the focusing of the light from a distant star, due to any object, such as a planet or another star, causing it to appear temporarily brighter is known as gravitational microlensing (depicted by the animation below, along with the change of brightness). 
 <p align="center">
    <img src="/img/19-4.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 While observing the event, it appears like a star getting gradually brighter over a certain period of time (like a month or so), before it gets dimmer. For a planet, it appears as a brief blip of light happening over the process. There is no concrete method for astronomers to predict these lensing events. Hence, they are required to watch over large parts of the sky, over a long period of time. On obtaining any records of such events, the data is analysed for obtaining detailed information about the star.
 
@@ -150,7 +146,6 @@ Recently, astronomers have discovered the most reflective exoplanet to be known 
 The existence of this planet has led researchers to explore other theories for metal cloud formation. It is now believed that the planet acquired metal clouds owing to an oversaturation of its atmosphere with silicate and vaporised metal. However, there are still some doubts regarding this theory, and the planet has been categorised as displaying mysterious characteristics, with scientists looking for more information and better suited explanations for its behaviour.
 <p align="center">
    <img src="/img/19-5.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 - #### The planet which was not supposed to be there:
   
@@ -159,7 +154,6 @@ The first proposition begins with two stars about the size of our Sun in close o
 
 <p align="center">
    <img src="/img/19-6.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 
 - #### New-found planet seemingly too big for its tiny star:
@@ -168,7 +162,6 @@ The planet was discovered after astronomers noted a periodic shift in the spectr
 After proposing various models and running simulations, the team of astronomers reached the conclusion that the explanation for such observation could be due to the very high amount of dust in the protoplanetary disk. However, there is still no rigid understanding as to why this dust is not seen in all the observations. This planet is being considered as an extreme example of the “missing mass” trend spotted in some earlier observations as well.
 <p align="center">
    <img src="/img/19-7.webp" alt>
-  <em> The Magnus effect (picture credits Wikipedia)</em>
 </p>
 
     
