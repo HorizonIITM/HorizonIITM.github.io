@@ -2,7 +2,7 @@
 layout: post
 title: Exoplanets
 date: 2024-03-01 00:00:00 +0000
-image: 19-0.webp
+image: cover19.jpg
 tags: []
 description: Ever wondered how many stars are out there with their own respective planet and solar systems, while looking ate night sky? What are the different types of planets in the universe? How are these planets different in their behavior and characteristics from the Earth and other planets of our solar system? Is there any life possible on these planets? Dive in as we explore the universe beyond our solar system.
 author: Mansha Kochar
@@ -177,6 +177,7 @@ REFERENCES:
 - https://sputnikglobe.com/20230711/astronomers-discover-shiniest-exoplanet-with-reflective-metal-clouds-1111806386.html
 - https://science.nasa.gov/universe/exoplanets/discovery-alert-the-planet-that-shouldnt-be-there/
 - https://www.astronomy.com/science/the-planet-lhs-3154-b-seems-way-too-big-for-its-tiny-star/
+- https://www.popularmechanics.com/space/deep-space/g40958720/exoplanets-in-the-milky-way/
 
 
 
