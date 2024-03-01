@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exoplanets
-date: 
+date: 2024-03-01 00:00:00 +0000
 image: 19-0.webp
 tags: []
 description: Ever wondered how many stars are out there with their own respective planet and solar systems, while looking ate night sky? What are the different types of planets in the universe? How are these planets different in their behavior and characteristics from the Earth and other planets of our solar system? Is there any life possible on these planets? Dive in as we explore the universe beyond our solar system.
