@@ -12,15 +12,17 @@ Space exploration has always been an intriguing topic of interest for human bein
 
 One of the prominent motivating factors for further exploration in the sphere of planetary science is the possibility of the existence of life on other planets. There has been considerable research on the topic considering the planets in our own solar system; however, the research has been fueled by the discovery of the existence of planets belonging to other solar systems, known as exoplanets.
 
-WHAT IS AN EXOPLANET?
-An exoplanet or extrasolar planet is a planet outside the Solar System (refers to the particular solar system in which Earth is a planet). According to the International Astronomical Unit (IAU), an exoplanet is defined as “Objects with true masses below the limiting mass for thermonuclear fusion of deuterium (currently calculated to be 13 Jupiter masses for objects of solar metallicity) that orbit stars, brown dwarfs or stellar remnants and that have a mass ratio with the central object below the L4/L5 instability (M/Mcentral < 2/(25+√621)).” Substellar objects with true masses above the limiting mass for thermonuclear fusion of deuterium are "brown dwarfs", no matter how they formed or where they are located.
+## WHAT IS AN EXOPLANET?
 
- An alternate distinction between the two is suggested on the basis of formation. It is widely thought that giant planets form through core accretion, which may sometimes produce planets with masses above the deuterium fusion threshold. Brown dwarfs form like stars from the direct gravitational collapse of clouds of gas and this formation mechanism also produces objects that are below the 13 MJup limit and can be as low as 1 MJup. While some other organisations such as the Extrasolar Planets Encyclopaedia have included objects upto 60 Jupiter masses. 
+An exoplanet or extrasolar planet is a planet outside the Solar System (refers to the particular solar system in which Earth is a planet). According to the International Astronomical Unit (IAU), an exoplanet is defined as “Objects with true masses below the limiting mass for thermonuclear fusion of deuterium (currently calculated to be 13 Jupiter masses for objects of solar metallicity) that orbit stars, brown dwarfs or stellar remnants and that have a mass ratio with the central object below the L4/L5 instability $(\frac{M}{M_{central}} < \frac{2}{(25+\sqrt{621}})$).” Substellar objects with true masses above the limiting mass for thermonuclear fusion of deuterium are "brown dwarfs", no matter how they formed or where they are located.
 
-## HISTORY OF EXOPLANET DISCOVERY
+ An alternate distinction between the two is suggested on the basis of formation. It is widely thought that giant planets form through core accretion, which may sometimes produce planets with masses above the deuterium fusion threshold. Brown dwarfs form like stars from the direct gravitational collapse of clouds of gas and this formation mechanism also produces objects that are below the 13 $M_{Jup}$ limit and can be as low as 1 $M_{Jup}$. While some other organisations such as the Extrasolar Planets Encyclopaedia have included objects upto 60 Jupiter masses. 
+
+# HISTORY OF EXOPLANET DISCOVERY
 The first evidence of a possible exoplanet, orbiting Van Maanen 2, was noted in 1917, but the first suspected scientific detection of an exoplanet occurred in 1988. Shortly afterwards, the first confirmation of detection came in 1992 from the Arecibo Observatory, with the discovery of several terrestrial-mass planets orbiting the pulsar PSR B1257+12. The first confirmation of an exoplanet orbiting a main-sequence star was made in 1995. Some exoplanets have been imaged directly by telescopes, but the vast majority have been detected through indirect methods, such as the transit method and the radial-velocity method. On 21st March 2022, the 5000th exoplanet beyond the Solar System was confirmed.On 11 January 2023, NASA scientists reported the detection of LHS 475 b, the first exoplanet discovered by the James Webb Space Telescope.
 
-HOW DO WE DETECT THE EXISTENCE OF AN EXOPLANET?
+## HOW DO WE DETECT THE EXISTENCE OF AN EXOPLANET?
+
 - #### Radial Velocity:
 It is one of the first successful and most efficient ways of discovering the possible existence of an exoplanet. It is based on the principle of ‘Doppler shift’. The proposed argument is that the way a planet is caused to revolve around a star due to the gravitational pull of the star, in a similar manner, the star also moves around because of the gravitational pull by the planet. 
 <p align="center">
@@ -93,7 +95,7 @@ This category includes planets similar to the Earth in size, and have a rocky co
 An interesting observation is the gap in the size of these planets, known as the Fulton gap. The data for these planets shows that planets ranging in the size of 1.5 to 2 times the size of Earth, are comparatively quite rare. The proposed argument explaining this observation is that planets near the upper-bound of the range, attract large clouds of hydrogen and helium, resulting in creation of a thick atmosphere and eventually ballooning up into gaseous planets. On the other hand, smaller planets orbiting closer to their stars could possibly be cores of Neptune-like planets stripped of their atmospheres. Further explanation can be made after a deep and better understanding of the formation of these solar systems.
 
 ## GENERAL CHARACTERISTICS OF EXOPLANETS
-- Surface composition and temperature:
+- #### Surface composition and temperature:
   
 Surface features are studied by comparing emission and reflection spectroscopy with transmission spectroscopy. The range of the radiation gives a criteria to distinguish between rocky and gaseous exoplanets: Mid-infrared spectroscopy of exoplanets may detect rocky surfaces, while near-infrared may identify magma oceans or high-temperature lavas, hydrated silica surfaces and water ice.
 
