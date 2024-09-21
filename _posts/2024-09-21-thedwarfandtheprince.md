@@ -1,16 +1,12 @@
 ---
 layout: post
-title:THE DWARF AND THE PRINCE: A CELESTIAL INTRIGUE
+title:THE DWARF AND THE PRINCE
 date: 2024-09-21 06:00:00 +0000
 image: 21-0.webp
 tags: [Probability, Astrometry]
 description: The Dwarf and the Prince is a tale of how the great Carl Gauss pioneered the application of statistics in astronomy - a marriage that laid the foundation for Modern Probability (and Statistics) and Astrometry.
 author: Pavan Rikkula
 ---
-
-# THE DWARF AND THE PRINCE: A CELESTIAL INTRIGUE
-
---------------------------------------------------------------------------------------------------------------
 
 “Nowhere in the annals of astronomy do we meet with so great an opportunity, and a greater one can hardly be imagined, for most strikingly, the value of this problem,…,when all hope of discovering in the heavens this planetary atom, among innumerable small stars after lapse of nearly a year, rested solely upon a sufficiently approximate knowledge of its orbit to be based on these very few observations.
 
