@@ -1,6 +1,6 @@
 ---
 layout: post
-title:THE DWARF AND THE PRINCE
+title: THE DWARF AND THE PRINCE
 date: 2024-09-21 06:00:00 +0000
 image: 21-0.webp
 tags: [Probability, Astrometry]
