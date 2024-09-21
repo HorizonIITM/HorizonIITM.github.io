@@ -10,7 +10,7 @@ author: Pavan Rikkula
 
 “Nowhere in the annals of astronomy do we meet with so great an opportunity, and a greater one can hardly be imagined, for most strikingly, the value of this problem,…,when all hope of discovering in the heavens this planetary atom, among innumerable small stars after lapse of nearly a year, rested solely upon a sufficiently approximate knowledge of its orbit to be based on these very few observations.
 
-check this <p align="center">
+<p align="center">
    <img src="/img/21-0.webp" alt>
    <br>
    <em>  Carl Friedrich Gauss (1777-1855) </em>
