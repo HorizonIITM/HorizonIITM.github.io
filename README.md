@@ -1,1 +1,1 @@
-Webpage hosted at horizoniitm.github.io
+Webpage hosted at horizoniitm.github.io/
