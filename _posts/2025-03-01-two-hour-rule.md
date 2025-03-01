@@ -17,7 +17,7 @@ A few days ago, someone I know casually dropped an interesting fact:
 
 At first, I was skeptical. **Earth’s low orbit takes just 1.5 hours**, not 2. But then it hit me - Earth **isn’t just** made of rock. It has a dense **iron core**, which increases its gravity and shortens its orbital period.
 
-Still, the number **2** seemed oddly simplistic and too good to be true. Could it be a coincidence? Nope**!** It turns out **this is (almost?) a fundamental rule of** physics**.**
+Still, the number **2** seemed oddly simplistic and too good to be true. Could it be a coincidence? Nope **!** It turns out **this is (almost?) a fundamental rule of** physics**.**
 
 <p align="center">
    <img src="/img/two-hour-rule/PIA16211orig.jpg" alt>
