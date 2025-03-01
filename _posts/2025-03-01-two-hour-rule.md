@@ -2,7 +2,7 @@
 layout: post
 title: The Two Hour Rule
 date: 2025-03-01 15:00:00 +0000
-image: twohourrulecover.jpg
+image: two-hour-rule/twohourrulecover.jpg
 tags: [Astrophysics, Gravity]
 description: Discover how the laws of gravity create a universal orbital clock, and why the 2-hour rule is woven into the fabric of the cosmos! 
 author: Pavan Rikkula
