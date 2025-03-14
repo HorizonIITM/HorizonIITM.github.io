@@ -1,0 +1,44 @@
+<div class='photo-carousel'>
+    {% assign sorted_photos = site.AstroPhotos_path | sort: "weight" %}
+    {% assign rsorted= sorted_photos | reverse %}
+    {% assign totaln = rsorted | size %}
+    {% assign slice_end = totaln | minus: 1 %}
+    {% assign nofirst = rsorted | slice:1, slice_end %}
+    <div id='GalleryPage' class="carousel slide carousel-fade" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="{{rsorted[0].image_path}}" alt="{{rsorted[0].title}}">
+            <div class="carousel-caption d-none d-md-block">
+                <h5><span>{{ rsorted[0].title }}</span></h5>
+                <p><span>{{ rsorted[0].description }}</span></p>
+            </div>
+        </div>
+      {% for image in nofirst %}
+        <div class='carousel-item'>
+                <img class="d-block w-100" src="{{image.image_path}}" alt="{{image.title}}">
+                <div class="carousel-caption d-none d-md-block">
+                <h5><span>{{ image.title }}</span></h5>
+                <p><span>{{ image.description }}</span></p>
+            </div>
+        </div>
+      {% endfor %}
+      </div>
+      <div class="control">
+        <a class="carousel-control-prev" href="#GalleryPage" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#GalleryPage" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+      </div>
+      </div>
+    </div>
+    <script language="JavaScript" type="text/javascript">
+        $('.carousel').carousel({
+          interval: 3000
+        })   
+    </script>
+    <!-- <script language="JavaScript" type="text/javascript" src="scripts/jquery.js"></script>
+    <script language="JavaScript" type="text/javascript" src="scripts/bootstrap.min.js"></script> -->
