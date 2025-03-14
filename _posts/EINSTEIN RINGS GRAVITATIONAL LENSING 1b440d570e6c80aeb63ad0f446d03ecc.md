@@ -1,3 +1,13 @@
+---
+layout: post
+title: Gravitational Lensing
+date: 2025-03-01 15:00:00 +0000
+image: ER1.webp
+tags: [Astrophysics, Gravity, General Relativity]
+description: One of Einstein’s Coolest discoveries is that gravity can act as lens, but how can gravity act as lens? Know more about it.
+author: M.Y.V.Charan
+---
+
 # EINSTEIN RINGS: GRAVITATIONAL LENSING
 
 Some objects are simple but are very useful for example take lenses, magnifying glass is lens, the specs we use are lens, the microscopes biologists use are lenses. If you casually see lens, it just distorts the view of objects behind this. In this article, we are going to understand about a lens which is helping us find galaxies and stars which are rather unseen. This lens is formed by the one of nature’s fundamental forces, Gravity. This phenomenon is called gravitational lensing.
