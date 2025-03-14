@@ -1,3 +1,15 @@
+---
+layout: post
+title: Europa Clipper
+date: 2025-03-01 15:00:00 +0000
+image: ER1.webp
+tags: [Astrophysics, Gravity, General Relativity]
+description: Beneath Europa’s frozen surface lies a world of possibilities. Could this icy moon of Jupiter harbor life? Dive into NASA’s Europa Clipper mission to find out!
+author: Liza Ghawsia
+---
+
+
+
 # The Europa Clipper
 
 In the past decades, we have been exploring the vast cosmos in search of extraterrestrial life forms. Gathering all kinds of data to see which planets atmosphere has most accurate composition suitable for life and which one has more potential for water beneath their surface. However, our search for life in space might be nearer than we thought and unexpectedly not even on a planet, but a moon- Europa.
