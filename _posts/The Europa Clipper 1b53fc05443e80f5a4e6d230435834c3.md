@@ -2,7 +2,7 @@
 layout: post
 title: Europa Clipper
 date: 2025-03-01 15:00:00 +0000
-image: ER1.webp
+image: Europa_-_Perijove_45_(cropped).png
 tags: [Astrophysics, Gravity, General Relativity]
 description: Beneath Europa’s frozen surface lies a world of possibilities. Could this icy moon of Jupiter harbor life? Dive into NASA’s Europa Clipper mission to find out!
 author: Liza Ghawsia
@@ -16,7 +16,9 @@ In the past decades, we have been exploring the vast cosmos in search of extrate
 
 The Europa Clipper mission, launched on 14 October 2024, is NASA’s ambitious effort to explore Europa, a moon of Jupiter with a vast subsurface “ocean world” beneath its icy crust.  These deep oceans have hydrothermal vents, those of which present on earth sustain complex deep sea ecosystems. 
 
-![Europa_-_Perijove_45_(cropped).png](Europa_-_Perijove_45_(cropped).png)
+<p align="center">
+   <img src="/img/Europa_-_Perijove_45_(cropped).png" alt>
+</p>
 
 This frozen satellite has captured scientists' imagination for decades, ever since the first evidence of its subsurface ocean emerged from the Voyager and Galileo missions. Observations from these spacecraft revealed a complex network of cracks and ridges on Europa's icy surface, suggesting dynamic geological processes driven by tidal forces from Jupiter. The peculiar reddish-brown streaks crisscrossing the moon's surface might contain compounds that could provide clues about the chemical composition of the ocean below. 
 
