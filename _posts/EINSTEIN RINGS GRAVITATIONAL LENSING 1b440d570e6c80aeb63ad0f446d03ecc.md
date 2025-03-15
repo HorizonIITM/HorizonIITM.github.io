@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gravitational Lensing
-date: 2025-03-01 15:00:00 +0000
+date: 2025-03-12 15:00:00 +0000
 image: ER1.webp
 tags: [Astrophysics, Gravity, General Relativity]
 description: One of Einstein’s Coolest discoveries is that gravity can act as lens, but how can gravity act as lens? Know more about it.
