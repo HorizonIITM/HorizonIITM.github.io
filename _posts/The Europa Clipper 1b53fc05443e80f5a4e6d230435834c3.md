@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Europa Clipper
-date: 2025-03-01 15:00:00 +0000
+date: 2025-03-12 15:00:00 +0000
 image: Europa_-_Perijove_45_(cropped).png
 tags: [Astrophysics, Gravity, General Relativity]
 description: Beneath Europa’s frozen surface lies a world of possibilities. Could this icy moon of Jupiter harbor life? Dive into NASA’s Europa Clipper mission to find out!
